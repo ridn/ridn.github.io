@@ -4,10 +4,10 @@ Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.ridan.returndismiss_0.0.2-1_iphoneos-arm.deb
-Size: 5692
+Filename: debs/com.ridan.returndismiss_0.0.2-2_iphoneos-arm.deb
+Size: 5810
 Installed-Size: 88
-MD5sum: 983fee75398d2a0d02c2103a1a9d7891
+MD5sum: 39ea6c7ae69cb8ba663ca7a43fa13de0
 Name: ReturnDismiss
 Description: Dismiss iOS Keyboard with return button.
 Sponsor: ridn <http://ridn.github.io>
