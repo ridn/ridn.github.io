@@ -15,3 +15,21 @@ Author: RiDan <appleidname@yahoo.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=returndismissDp
 dev: appleidname
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file= returndismissDp
+
+Package: com.ridan.statuscolor
+Version: 0.3.1
+Section: Tweaks
+Maintainer: ridn <appleidname@yahoo.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.ridan.statuscolor_0.3.1-2_iphoneos-arm.deb
+Size: 29616
+Installed-Size: 217
+MD5sum: 9298ed7600dc2c4c67ee95d17fe6ae33
+Name: StatusColor
+Description: Colorize the Status Bar!.
+Sponsor: ridn <http://ridn.github.io>
+Author: RiDan <appleidname@yahoo.com>
+Depiction: 
+dev: appleidname
+homepage: 
