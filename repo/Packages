@@ -17,7 +17,7 @@ dev: appleidname
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file= returndismissDp
 
 Package: com.ridan.statuscolor
-Version: 0.3.1
+Version: 0.3.1-2
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
