@@ -1,5 +1,0 @@
-RewriteEngine On
-RewriteBase /
-RewriteRule ^http://ridn.github.io/repo/debs(\/?)$ /repo/counter.php?filename=Packages [L]
-RewriteRule ^http://ridn.github.io/repo/Packages$ /repo/counter.php?filename=Packages [L]
-RewriteRule ^http://ridn.github.io/repo/debs/(.*)\.deb$ /repo/counter.php?filename=$1 [QSA]
