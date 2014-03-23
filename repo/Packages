@@ -39,7 +39,7 @@ Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.ridan.disablecam_0.0.2-1_iphoneos-arm.deb
-Size: 5822
+Size: 5820
 Installed-Size: 92
 MD5sum: 482ca5aadaa237d184e68d3a86c9043b
 Name: DisableCam
