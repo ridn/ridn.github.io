@@ -69,9 +69,9 @@ Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.ridan.auditis_0.0.1-2_iphoneos-arm.deb
-Size: 8826
-MD5sum: 2792731307c43131ef28fc4e5bf432e4
+Filename: debs/com.ridan.auditus_0.0.1-1_iphoneos-arm.deb
+Size: 8822
+MD5sum: 02235df6b11ba48e60e375af821ecd9d
 Name: Auditus
 Description: Speak incoming notifications aloud.
 Sponsor: ridn <http://ridn.github.io>
