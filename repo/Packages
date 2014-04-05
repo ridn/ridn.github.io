@@ -47,3 +47,33 @@ Description: Disable that camera.
 Sponsor: ridn <http://ridn.github.io>
 Author: RiDan <appleidname@yahoo.com>
 dev: appleidname
+
+Package: com.ridan.xccolorlite
+Version: 0.0.1
+Section: Tweaks
+Maintainer: ridn <appleidname@yahoo.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.ridan.xccolorlite_0.0.1-18_iphoneos-arm.deb
+Size: 39770
+MD5sum: 03b2e8fa22ef8dbda942992a35505110
+Name: XCColors Lite
+Description: Colorize iOS7.
+Sponsor: ridn <http://ridn.github.io>
+Author: RiDan <appleidname@yahoo.com>
+dev: appleidname
+
+Package: com.ridan.auditus
+Version: 0.0.1
+Section: Tweaks
+Maintainer: ridn <appleidname@yahoo.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.ridan.auditis_0.0.1-2_iphoneos-arm.deb
+Size: 8826
+MD5sum: 2792731307c43131ef28fc4e5bf432e4
+Name: Auditus
+Description: Speak incoming notifications aloud.
+Sponsor: ridn <http://ridn.github.io>
+Author: RiDan <appleidname@yahoo.com>
+dev: appleidname
