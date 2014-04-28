@@ -7,6 +7,6 @@ Architectures: darwin-arm
 Components: main
 Description: Beta software from ridn
 MD5Sum:
-bf7c4077e009e2f57c28077341b91432 2827 Packages
-df77d7d34fbb3880415032ae3a5ab2a2 981 Packages.bz2
-784fd30d5ee20eb1e76fcdfacffa01a8 819 Packages.gz
+4f6a417a3413d51a912b91df7e5da46c 3270 Packages
+a4539f5548865c87b3783df93905d8fe 1076 Packages.bz2
+d4244e5e9803b5d001e9adbe733ea5c3 908 Packages.gz

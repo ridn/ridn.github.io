@@ -92,3 +92,19 @@ Description: Tap to unlock! Initial release written in < 24 hrs.
 Sponsor: ridn <http://ridn.github.io>
 Author: RiDan <appleidname@yahoo.com>
 dev: appleidname
+
+
+Package: com.ridan.snapchatinit
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: ridn <appleidname@yahoo.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.ridan.snapchatinit_0.0.1-2_iphoneos-arm.deb
+Size: 3432
+MD5sum: 0802d8ed141d686692ad82a1735917bd
+Name: SnapFeed
+Description: Load SnapChat directly to the inbox feed view!
+Sponsor: ridn <http://ridn.github.io>
+Author: RiDan <appleidname@yahoo.com>
+dev: appleidname
