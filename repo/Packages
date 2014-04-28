@@ -79,16 +79,16 @@ Author: RiDan <appleidname@yahoo.com>
 dev: appleidname
 
 Package: com.ridan.bttu
-Version: 0.0.1-11
+Version: 0.0.2-1
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate , preferenceloader, firmware (>= 7.0)
 Architecture: iphoneos-arm
-Filename: debs/com.ridan.bttu_0.0.1-11_iphoneos-arm.deb
-Size: 35448
-MD5sum: 84c24a02f652e529a9058a9a6d58f86e
+Filename: debs/com.ridan.bttu_0.0.2-1_iphoneos-arm.deb
+Size: 35526
+MD5sum: 8ec61eda1a91f95bd827fa77124249e3
 Name: Better Tap To Unlock
-Description: Tap to unlock! written in under 24 hours.
+Description: Tap to unlock! Initial release written in < 24 hrs.
 Sponsor: ridn <http://ridn.github.io>
 Author: RiDan <appleidname@yahoo.com>
 dev: appleidname
