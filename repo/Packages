@@ -1,3 +1,45 @@
+Package: com.ridan.auditus
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: RiDan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.ridan.auditus_0.0.1-2_iphoneos-arm.deb
+Size: 22440
+Installed-Size: 132
+MD5sum: 997a5acf54a9e03c9e0873bc0d1fc172
+Description: An awesome MobileSubstrate tweak!
+author: RiDan
+name: Auditus
+
+Package: com.ridan.bttu
+Version: 0.0.2-1
+Section: Tweaks
+Maintainer: ridn
+Depends: mobilesubstrate , preferenceloader, firmware (>= 7.0)
+Architecture: iphoneos-arm
+Filename: debs/com.ridan.bttu_0.0.2-1_iphoneos-arm.deb
+Size: 35526
+Installed-Size: 220
+MD5sum: 8ec61eda1a91f95bd827fa77124249e3
+Description: An awesome MobileSubstrate tweak!
+author: ridn
+name: BetterTTU
+
+Package: com.ridan.disablecam
+Version: 0.0.2-1
+Section: Tweaks
+Maintainer: RiDan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.ridan.disablecam_0.0.2-1_iphoneos-arm.deb
+Size: 5820
+Installed-Size: 92
+MD5sum: 206d7712614b17d8f1dd5e9d58d4c1df
+Description: An awesome MobileSubstrate tweak!
+author: RiDan
+name: DisableCam
+
 Package: com.ridan.returndismiss
 Version: 0.0.2-2
 Section: Tweaks
@@ -8,103 +50,53 @@ Filename: debs/com.ridan.returndismiss_0.0.2-2_iphoneos-arm.deb
 Size: 5810
 Installed-Size: 88
 MD5sum: 39ea6c7ae69cb8ba663ca7a43fa13de0
-Name: ReturnDismiss
 Description: Dismiss iOS Keyboard with return button.
-Sponsor: ridn <http://ridn.github.io>
-Author: RiDan <appleidname@yahoo.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=returndismissDp
+author: RiDan <appleidname@yahoo.com>
+depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=returndismissDp
 dev: appleidname
+name: ReturnDismiss
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file= returndismissDp
+sponsor: ridn <http://ridn.github.io>
+
+Package: com.ridan.snapchatinit
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: ridn
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.ridan.snapchatinit_0.0.1-3_iphoneos-arm.deb
+Size: 3432
+Installed-Size: 88
+MD5sum: ec2770b8fb8416ba32587d208d09e00a
+Description: Load SnapChat directly to inbox feed!
+author: ridn
+name: SnapFeed
 
 Package: com.ridan.statuscolor
 Version: 0.3.1-2
 Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
+Maintainer: System Administrator
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.ridan.statuscolor_0.3.1-2_iphoneos-arm.deb
 Size: 29616
 Installed-Size: 216
 MD5sum: 9298ed7600dc2c4c67ee95d17fe6ae33
-Name: StatusColor
-Description: Colorize the Status Bar!.
-Sponsor: ridn <http://ridn.github.io>
-Author: RiDan <appleidname@yahoo.com>
-dev: appleidname
-
-Package: com.ridan.disablecam
-Version: 0.0.2-1
-Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.ridan.disablecam_0.0.2-1_iphoneos-arm.deb
-Size: 5820
-Installed-Size: 92
-MD5sum: 206d7712614b17d8f1dd5e9d58d4c1df
-Name: DisableCam
-Description: Disable that camera.
-Sponsor: ridn <http://ridn.github.io>
-Author: RiDan <appleidname@yahoo.com>
-dev: appleidname
+Description: An awesome MobileSubstrate tweak!
+author: System Administrator
+name: StatusColor
 
 Package: com.ridan.xccolorlite
 Version: 0.0.1-19
 Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
+Maintainer: ridn
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.ridan.xccolorlite_0.0.1-19_iphoneos-arm.deb
 Size: 39794
+Installed-Size: 252
 MD5sum: 1e7209f0dc45c87ecf64db0f5be3a3f0
-Name: XCColors Lite
-Description: Colorize iOS7.
-Sponsor: ridn <http://ridn.github.io>
-Author: RiDan <appleidname@yahoo.com>
-dev: appleidname
+Description: An awesome MobileSubstrate tweak!
+author: ridn
+name: XCColors Lite
 
-Package: com.ridan.auditus
-Version: 0.0.1-2
-Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.ridan.auditus_0.0.1-2_iphoneos-arm.deb
-Size: 22440
-MD5sum: 997a5acf54a9e03c9e0873bc0d1fc172
-Name: Auditus
-Description: Speak incoming notifications aloud.
-Sponsor: ridn <http://ridn.github.io>
-Author: RiDan <appleidname@yahoo.com>
-dev: appleidname
-
-Package: com.ridan.bttu
-Version: 0.0.2-1
-Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
-Depends: mobilesubstrate , preferenceloader, firmware (>= 7.0)
-Architecture: iphoneos-arm
-Filename: debs/com.ridan.bttu_0.0.2-1_iphoneos-arm.deb
-Size: 35526
-MD5sum: 8ec61eda1a91f95bd827fa77124249e3
-Name: Better Tap To Unlock
-Description: Tap to unlock! Initial release written in < 24 hrs.
-Sponsor: ridn <http://ridn.github.io>
-Author: RiDan <appleidname@yahoo.com>
-dev: appleidname
-
-
-Package: com.ridan.snapchatinit
-Version: 0.0.1-2
-Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.ridan.snapchatinit_0.0.1-2_iphoneos-arm.deb
-Size: 3432
-MD5sum: 0802d8ed141d686692ad82a1735917bd
-Name: SnapFeed
-Description: Load SnapChat directly to the inbox feed view!
-Sponsor: ridn <http://ridn.github.io>
-Author: RiDan <appleidname@yahoo.com>
-dev: appleidname
