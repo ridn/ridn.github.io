@@ -13,15 +13,15 @@ author: RiDan
 name: Auditus
 
 Package: com.ridan.bttu
-Version: 0.0.2-1
+Version: 0.0.2-3
 Section: Tweaks
 Maintainer: ridn
 Depends: mobilesubstrate , preferenceloader, firmware (>= 7.0)
 Architecture: iphoneos-arm
-Filename: debs/com.ridan.bttu_0.0.2-1_iphoneos-arm.deb
-Size: 35526
+Filename: debs/com.ridan.bttu_0.0.2-3_iphoneos-arm.deb
+Size: 37326
 Installed-Size: 220
-MD5sum: 8ec61eda1a91f95bd827fa77124249e3
+MD5sum: 37e98303bac026ac9c176d0ec34085e2
 Description: An awesome MobileSubstrate tweak!
 author: ridn
 name: BetterTTU
