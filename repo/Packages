@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: RiDan
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.ridan.auditus_0.0.1-2_iphoneos-arm.deb
+Filename: /debs/com.ridan.auditus_0.0.1-2_iphoneos-arm.deb
 Size: 22440
 Installed-Size: 132
 MD5sum: 997a5acf54a9e03c9e0873bc0d1fc172
@@ -18,7 +18,7 @@ Section: Tweaks
 Maintainer: ridn
 Depends: mobilesubstrate , preferenceloader, firmware (>= 7.0)
 Architecture: iphoneos-arm
-Filename: debs/com.ridan.bttu_0.0.2-3_iphoneos-arm.deb
+Filename: /debs/com.ridan.bttu_0.0.2-3_iphoneos-arm.deb
 Size: 37326
 Installed-Size: 220
 MD5sum: 37e98303bac026ac9c176d0ec34085e2
@@ -32,7 +32,7 @@ Section: Tweaks
 Maintainer: RiDan
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.ridan.disablecam_0.0.2-1_iphoneos-arm.deb
+Filename: /debs/com.ridan.disablecam_0.0.2-1_iphoneos-arm.deb
 Size: 5820
 Installed-Size: 92
 MD5sum: 206d7712614b17d8f1dd5e9d58d4c1df
@@ -40,13 +40,27 @@ Description: An awesome MobileSubstrate tweak!
 author: RiDan
 name: DisableCam
 
+Package: com.ridan.pjs
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: ridan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/com.ridan.pjs_0.0.1-2_iphoneos-arm.deb
+Size: 4724
+Installed-Size: 88
+MD5sum: db25dca9ed3e793e4cc0543d2a2fefca
+Description: A barebones iOS 7 compatible PageJumps.
+author: ridan
+name: PageJumps (Skeleton)
+
 Package: com.ridan.returndismiss
 Version: 0.0.2-2
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.ridan.returndismiss_0.0.2-2_iphoneos-arm.deb
+Filename: /debs/com.ridan.returndismiss_0.0.2-2_iphoneos-arm.deb
 Size: 5810
 Installed-Size: 88
 MD5sum: 39ea6c7ae69cb8ba663ca7a43fa13de0
@@ -64,7 +78,7 @@ Section: Tweaks
 Maintainer: ridn
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.ridan.snapchatinit_0.0.1-3_iphoneos-arm.deb
+Filename: /debs/com.ridan.snapchatinit_0.0.1-3_iphoneos-arm.deb
 Size: 3432
 Installed-Size: 88
 MD5sum: ec2770b8fb8416ba32587d208d09e00a
@@ -78,7 +92,7 @@ Section: Tweaks
 Maintainer: System Administrator
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.ridan.statuscolor_0.3.1-2_iphoneos-arm.deb
+Filename: /debs/com.ridan.statuscolor_0.3.1-2_iphoneos-arm.deb
 Size: 29616
 Installed-Size: 216
 MD5sum: 9298ed7600dc2c4c67ee95d17fe6ae33
@@ -92,7 +106,7 @@ Section: Tweaks
 Maintainer: ridn
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.ridan.xccolorlite_0.0.1-19_iphoneos-arm.deb
+Filename: /debs/com.ridan.xccolorlite_0.0.1-19_iphoneos-arm.deb
 Size: 39794
 Installed-Size: 252
 MD5sum: 1e7209f0dc45c87ecf64db0f5be3a3f0
