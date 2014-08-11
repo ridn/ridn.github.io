@@ -1,3 +1,17 @@
+Package: com.ridan.allsnap
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: ridn
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/com.ridan.allsnap_0.0.1-1_iphoneos-arm.deb
+Size: 5798
+Installed-Size: 88
+MD5sum: aaa2c8182c3b194c501e7e55adc0ca48
+Description: Select all friends to receive a snap. Active by holding the "Add Friends" button on the recipient selection screen.
+author: ridn
+name: AllSnap
+
 Package: com.ridan.auditus
 Version: 0.0.1-2
 Section: Tweaks
