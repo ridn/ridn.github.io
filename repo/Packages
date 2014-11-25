@@ -114,6 +114,20 @@ Description: An awesome MobileSubstrate tweak!
 author: System Administrator
 name: StatusColor
 
+Package: com.ridan.ud4w
+Version: 0.0.1-4
+Section: Tweaks
+Maintainer: ridn
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/com.ridan.ud4w_0.0.1-4_iphoneos-arm.deb
+Size: 5112
+Installed-Size: 72
+MD5sum: f26d3634c785eae4eefc4aa781894965
+Description: An awesome MobileSubstrate tweak!
+author: ridn
+name: UnDim4What
+
 Package: com.ridan.xccolorlite
 Version: 0.0.1-19
 Section: Tweaks

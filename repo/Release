@@ -6,7 +6,3 @@ Codename: stable
 Architectures: darwin-arm
 Components: main
 Description: Beta software from ridn
-MD5Sum:
-4ce87f59dd5759ba49c2773c1163c674 3532 Packages
-abacf294bc142a42c67019064e6b3853 1234 Packages.bz2
-3b1577adc835e75a384e463b6b41f8ea 1087 Packages.gz
