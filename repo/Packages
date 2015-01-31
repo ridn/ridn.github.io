@@ -114,6 +114,20 @@ Description: An awesome MobileSubstrate tweak!
 author: System Administrator
 name: StatusColor
 
+Package: com.ridan.twttrsk
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: ridn
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/com.ridan.twttrsk_0.0.1-1_iphoneos-arm.deb
+Size: 1936
+Installed-Size: 16
+MD5sum: ecd361ed5800e23f39861f7edbe4e574
+Description: Twitter compose sheet open to keyboard!
+author: ridn
+name: Twitter Showkeyboard
+
 Package: com.ridan.ud4w
 Version: 0.0.1-4
 Section: Tweaks
