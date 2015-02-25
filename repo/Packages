@@ -129,16 +129,16 @@ author: ridn
 name: Twitter Showkeyboard
 
 Package: com.ridan.ud4w
-Version: 0.0.1-4
+Version: 0.0.1-5
 Section: Tweaks
 Maintainer: ridn
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridan.ud4w_0.0.1-4_iphoneos-arm.deb
-Size: 5112
+Filename: /debs/com.ridan.ud4w_0.0.1-5_iphoneos-arm.deb
+Size: 5320
 Installed-Size: 72
-MD5sum: f26d3634c785eae4eefc4aa781894965
-Description: An awesome MobileSubstrate tweak!
+MD5sum: 028a5caba7307fc6caae606051e0443b
+Description: œ
 author: ridn
 name: UnDim4What
 
