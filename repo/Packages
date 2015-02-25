@@ -129,16 +129,16 @@ author: ridn
 name: Twitter Showkeyboard
 
 Package: com.ridan.ud4w
-Version: 0.0.1-5
+Version: 0.0.1-6
 Section: Tweaks
 Maintainer: ridn
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridan.ud4w_0.0.1-5_iphoneos-arm.deb
-Size: 5320
+Filename: /debs/com.ridan.ud4w_0.0.1-6_iphoneos-arm.deb
+Size: 5356
 Installed-Size: 72
-MD5sum: 028a5caba7307fc6caae606051e0443b
-Description: œ
+MD5sum: 016cffe66cafa05039336ea5884220a6
+Description: Undim the lock screen upon now playing track changes.
 author: ridn
 name: UnDim4What
 
