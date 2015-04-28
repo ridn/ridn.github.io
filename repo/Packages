@@ -141,7 +141,7 @@ MD5sum: 1cb841ee6cde90794c4eec4f802237cd
 Description: Undim the lock screen upon now playing track changes.
 author: ridn
 name: UnDim4What
-icon: file:///Library/Switches/UD4WFS.bundle/glyph.pdf
+icon:file: ///Library/Switches/UD4WFS.bundle/glyph.pdf
 
 Package: com.ridan.xccolorlite
 Version: 0.0.1-19
@@ -156,4 +156,18 @@ MD5sum: 1e7209f0dc45c87ecf64db0f5be3a3f0
 Description: An awesome MobileSubstrate tweak!
 author: ridn
 name: XCColors Lite
+
+Package: com.ridn.hypeman
+Version: 0.0.1-43
+Section: Tweaks
+Maintainer: ridn (appleidname@yahoo.com)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/com.ridn.hypeman_0.0.1-43_iphoneos-arm.deb
+Size: 8378
+Installed-Size: 72
+MD5sum: c61a17a6a7fdf3999132de68eb6889eb
+Description: Announce now playing track changes!
+author: ridn (appleidname@yahoo.com)
+name: Hypeman
 
