@@ -158,16 +158,16 @@ author: ridn
 name: XCColors Lite
 
 Package: com.ridn.hypeman
-Version: 0.0.1-43
+Version: 0.0.2-1
 Section: Tweaks
-Maintainer: ridn (appleidname@yahoo.com)
+Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridn.hypeman_0.0.1-43_iphoneos-arm.deb
-Size: 8378
+Filename: /debs/com.ridn.hypeman_0.0.2-1_iphoneos-arm.deb
+Size: 8432
 Installed-Size: 72
-MD5sum: c61a17a6a7fdf3999132de68eb6889eb
+MD5sum: aa8ac9b4632fee6cbe05dfb0ca897193
 Description: Announce now playing track changes!
-author: ridn (appleidname@yahoo.com)
+author: ridn <appleidname@yahoo.com>
 name: Hypeman
 
