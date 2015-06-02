@@ -158,30 +158,30 @@ author: ridn
 name: XCColors Lite
 
 Package: com.ridn.bounce
-Version: 1.0.0-2
+Version: 1.0.0-3
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.bounce_1.0.0-2_iphoneos-arm.deb
-Size: 6104
+Filename: /debs//com.ridn.bounce_1.0.0-3_iphoneos-arm.deb
+Size: 6136
 Installed-Size: 72
-MD5sum: dcd09b9651c19d11a6fc100028224158
+MD5sum: ea1bad852303c81c8ceb6cbc23315cad
 Description: "PlayTask" for iOS8
 author: ridn <appleidname@yahoo.com>
 depiction: http://ridn.github.io/repo/depiction/bounce/
 name: Bounce
 
 Package: com.ridn.callback
-Version: 1.0.0-2
+Version: 1.1-1
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.callback_1.0.0-2_iphoneos-arm.deb
-Size: 5188
-Installed-Size: 72
-MD5sum: cf19b45f8b877dd5f189666951e02cfb
+Filename: /debs//com.ridn.callback_1.1-1_iphoneos-arm.deb
+Size: 8658
+Installed-Size: 88
+MD5sum: 3da49e98b6fd959cced7b6e2a74cbb4a
 Description: Quick call back!
 author: ridn <appleidname@yahoo.com>
 depiction: http://ridn.github.io/repo/depiction/callback/
