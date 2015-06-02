@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: ridn
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridan.allsnap_0.0.1-1_iphoneos-arm.deb
+Filename: /debs//com.ridan.allsnap_0.0.1-1_iphoneos-arm.deb
 Size: 5798
 Installed-Size: 88
 MD5sum: aaa2c8182c3b194c501e7e55adc0ca48
@@ -18,7 +18,7 @@ Section: Tweaks
 Maintainer: RiDan
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridan.auditus_0.0.1-2_iphoneos-arm.deb
+Filename: /debs//com.ridan.auditus_0.0.1-2_iphoneos-arm.deb
 Size: 22440
 Installed-Size: 132
 MD5sum: 997a5acf54a9e03c9e0873bc0d1fc172
@@ -32,7 +32,7 @@ Section: Tweaks
 Maintainer: ridn
 Depends: mobilesubstrate , preferenceloader, firmware (>= 7.0)
 Architecture: iphoneos-arm
-Filename: /debs/com.ridan.bttu_0.0.2-3_iphoneos-arm.deb
+Filename: /debs//com.ridan.bttu_0.0.2-3_iphoneos-arm.deb
 Size: 37326
 Installed-Size: 220
 MD5sum: 37e98303bac026ac9c176d0ec34085e2
@@ -46,7 +46,7 @@ Section: Tweaks
 Maintainer: RiDan
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridan.disablecam_0.0.2-1_iphoneos-arm.deb
+Filename: /debs//com.ridan.disablecam_0.0.2-1_iphoneos-arm.deb
 Size: 5820
 Installed-Size: 92
 MD5sum: 206d7712614b17d8f1dd5e9d58d4c1df
@@ -60,7 +60,7 @@ Section: Tweaks
 Maintainer: ridan
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridan.pjs_0.0.1-2_iphoneos-arm.deb
+Filename: /debs//com.ridan.pjs_0.0.1-2_iphoneos-arm.deb
 Size: 4724
 Installed-Size: 88
 MD5sum: db25dca9ed3e793e4cc0543d2a2fefca
@@ -74,7 +74,7 @@ Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridan.returndismiss_0.0.2-2_iphoneos-arm.deb
+Filename: /debs//com.ridan.returndismiss_0.0.2-2_iphoneos-arm.deb
 Size: 5810
 Installed-Size: 88
 MD5sum: 39ea6c7ae69cb8ba663ca7a43fa13de0
@@ -92,7 +92,7 @@ Section: Tweaks
 Maintainer: ridn
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridan.snapchatinit_0.0.1-3_iphoneos-arm.deb
+Filename: /debs//com.ridan.snapchatinit_0.0.1-3_iphoneos-arm.deb
 Size: 3432
 Installed-Size: 88
 MD5sum: ec2770b8fb8416ba32587d208d09e00a
@@ -106,7 +106,7 @@ Section: Tweaks
 Maintainer: System Administrator
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridan.statuscolor_0.3.1-2_iphoneos-arm.deb
+Filename: /debs//com.ridan.statuscolor_0.3.1-2_iphoneos-arm.deb
 Size: 29616
 Installed-Size: 216
 MD5sum: 9298ed7600dc2c4c67ee95d17fe6ae33
@@ -120,7 +120,7 @@ Section: Tweaks
 Maintainer: ridn
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridan.twttrsk_0.0.1-17_iphoneos-arm.deb
+Filename: /debs//com.ridan.twttrsk_0.0.1-17_iphoneos-arm.deb
 Size: 2052
 Installed-Size: 16
 MD5sum: aeb66f55f7f5cc622ea3a5cdc48442d5
@@ -134,7 +134,7 @@ Section: Tweaks
 Maintainer: ridn
 Depends: mobilesubstrate , com.a3tweaks.flipswitch
 Architecture: iphoneos-arm
-Filename: /debs/com.ridan.ud4w_1.0.1-1_iphoneos-arm.deb
+Filename: /debs//com.ridan.ud4w_1.0.1-1_iphoneos-arm.deb
 Size: 14160
 Installed-Size: 152
 MD5sum: 1cb841ee6cde90794c4eec4f802237cd
@@ -149,7 +149,7 @@ Section: Tweaks
 Maintainer: ridn
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridan.xccolorlite_0.0.1-19_iphoneos-arm.deb
+Filename: /debs//com.ridan.xccolorlite_0.0.1-19_iphoneos-arm.deb
 Size: 39794
 Installed-Size: 252
 MD5sum: 1e7209f0dc45c87ecf64db0f5be3a3f0
@@ -158,15 +158,15 @@ author: ridn
 name: XCColors Lite
 
 Package: com.ridn.bounce
-Version: 1.0.0-1
+Version: 1.0.0-2
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridn.bounce_1.0.0-1_iphoneos-arm.deb
-Size: 6196
+Filename: /debs//com.ridn.bounce_1.0.0-2_iphoneos-arm.deb
+Size: 6104
 Installed-Size: 72
-MD5sum: 5ee3dc9cf2505352ef95fa5c21799b0f
+MD5sum: dcd09b9651c19d11a6fc100028224158
 Description: "PlayTask" for iOS8
 author: ridn <appleidname@yahoo.com>
 depiction: http://ridn.github.io/repo/depiction/bounce/
@@ -178,7 +178,7 @@ Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridn.callback_1.0.0-2_iphoneos-arm.deb
+Filename: /debs//com.ridn.callback_1.0.0-2_iphoneos-arm.deb
 Size: 5188
 Installed-Size: 72
 MD5sum: cf19b45f8b877dd5f189666951e02cfb
@@ -193,7 +193,7 @@ Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.ridn.hypeman_0.0.3-1_iphoneos-arm.deb
+Filename: /debs//com.ridn.hypeman_0.0.3-1_iphoneos-arm.deb
 Size: 33994
 Installed-Size: 184
 MD5sum: 8980b8749ed4ec2d5f71cc366cef45ff
