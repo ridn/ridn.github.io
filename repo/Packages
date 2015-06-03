@@ -173,15 +173,15 @@ depiction: http://ridn.github.io/repo/depiction/bounce/
 name: Bounce
 
 Package: com.ridn.callback
-Version: 1.1-1
+Version: 1.1.1-1
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.callback_1.1-1_iphoneos-arm.deb
-Size: 8658
+Filename: /debs//com.ridn.callback_1.1.1-1_iphoneos-arm.deb
+Size: 8906
 Installed-Size: 88
-MD5sum: 3da49e98b6fd959cced7b6e2a74cbb4a
+MD5sum: 210c372ae50ab6fa6c97d260c6acb932
 Description: Quick call back!
 author: ridn <appleidname@yahoo.com>
 depiction: http://ridn.github.io/repo/depiction/callback/
