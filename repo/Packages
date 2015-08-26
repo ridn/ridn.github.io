@@ -203,15 +203,15 @@ depiction: http://ridn.github.io/repo/depiction/hypeman/
 name: Hypeman
 
 Package: com.ridn.mutiny
-Version: 0.0.1-4
+Version: 0.0.1-5
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.mutiny_0.0.1-4_iphoneos-arm.deb
-Size: 5686
+Filename: /debs//com.ridn.mutiny_0.0.1-5_iphoneos-arm.deb
+Size: 5822
 Installed-Size: 88
-MD5sum: 6d062c15b027897a630c7c947f50dcbb
+MD5sum: 1117614a94273cb045278d76e53a79d1
 Description: Mute those convos right from the list!
 author: ridn <appleidname@yahoo.com>
 depiction: http://ridn.github.io/repo/depiction/mutiny/
