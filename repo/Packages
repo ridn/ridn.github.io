@@ -218,16 +218,16 @@ depiction: http://ridn.github.io/repo/depiction/mutiny/
 name: Mutiny
 
 Package: com.ridn.sqone
-Version: 0.0.1-3
+Version: 0.0.1-4
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.sqone_0.0.1-3_iphoneos-arm.deb
-Size: 3248
+Filename: /debs//com.ridn.sqone_0.0.1-4_iphoneos-arm.deb
+Size: 3254
 Installed-Size: 72
-MD5sum: 086b402ea58812e7b04e9c4cb3061354
-Description: An awesome MobileSubstrate tweak!
+MD5sum: b0f7e2333a86475fc237bbea01e51d11
+Description: Always load top of Today View
 author: ridn <appleidname@yahoo.com>
 depiction: http://ridn.github.io/repo/depiction/squareone
 name: Square One
