@@ -202,6 +202,22 @@ author: ridn <appleidname@yahoo.com>
 depiction: http://ridn.github.io/repo/depiction/hypeman/
 name: Hypeman
 
+Package: com.ridn.letigre
+Version: 0.0.1-936
+Section: Tweaks
+Maintainer: ridn <appleidname@yahoo.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs//com.ridn.letigre_0.0.1-936_iphoneos-arm.deb
+Size: 109460
+Installed-Size: 316
+MD5sum: 9793e17b1fe0bb7a073da3a7afc1ddc9
+Description: An awesome MobileSubstrate tweak!
+icon: file:///Library/Application Support/MagnumColorSettings.bundle/icon.png
+author: ridn <appleidname@yahoo.com>
+depiction: http://ridn.github.io/repo/depiction/magnum
+name: Magnum
+
 Package: com.ridn.mutiny
 Version: 0.0.1-7
 Section: Tweaks
