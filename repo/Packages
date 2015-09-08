@@ -203,16 +203,16 @@ depiction: http://ridn.github.io/repo/depiction/hypeman/
 name: Hypeman
 
 Package: com.ridn.letigre
-Version: 0.0.1-936
+Version: 0.0.1-941
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.letigre_0.0.1-936_iphoneos-arm.deb
-Size: 109460
+Filename: /debs//com.ridn.letigre_0.0.1-941_iphoneos-arm.deb
+Size: 111902
 Installed-Size: 316
-MD5sum: 9793e17b1fe0bb7a073da3a7afc1ddc9
-Description: An awesome MobileSubstrate tweak!
+MD5sum: 1679d5c4b5db3e43534a12162218af69
+Description: Contact specific message colors.
 icon: file:///Library/Application Support/MagnumColorSettings.bundle/icon.png
 author: ridn <appleidname@yahoo.com>
 depiction: http://ridn.github.io/repo/depiction/magnum
