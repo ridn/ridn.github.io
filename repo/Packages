@@ -188,17 +188,18 @@ depiction: http://ridn.github.io/repo/depiction/callback/
 name: CallBack
 
 Package: com.ridn.cog
-Version: 0.0.1-4
+Version: 0.0.1-5
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.cog_0.0.1-4_iphoneos-arm.deb
-Size: 36978
+Filename: /debs//com.ridn.cog_0.0.1-5_iphoneos-arm.deb
+Size: 37020
 Installed-Size: 112
-MD5sum: 787d34829230d60e79f92fb73b232404
-Description: An awesome MobileSubstrate tweak!
+MD5sum: 9509b651c16f43c907cb51c395397977
+Description: Indicate if the last message was incoming or outgoing!
 author: ridn <appleidname@yahoo.com>
+depiction: https://ridn.github.io/repo/depiction/cog
 name: Cog
 
 Package: com.ridn.hypeman
