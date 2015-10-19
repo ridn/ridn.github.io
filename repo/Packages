@@ -188,15 +188,15 @@ depiction: http://ridn.github.io/repo/depiction/callback/
 name: CallBack
 
 Package: com.ridn.cog
-Version: 0.0.1-5
+Version: 0.0.1-7
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.cog_0.0.1-5_iphoneos-arm.deb
-Size: 37020
-Installed-Size: 112
-MD5sum: 9509b651c16f43c907cb51c395397977
+Filename: /debs//com.ridn.cog_0.0.1-7_iphoneos-arm.deb
+Size: 37876
+Installed-Size: 144
+MD5sum: 5f949717a489e461df3a5fcbd91d9adf
 Description: Indicate if the last message was incoming or outgoing!
 author: ridn <appleidname@yahoo.com>
 depiction: https://ridn.github.io/repo/depiction/cog
@@ -218,15 +218,15 @@ depiction: http://ridn.github.io/repo/depiction/hypeman/
 name: Hypeman
 
 Package: com.ridn.leash
-Version: 0.0.1-3
+Version: 0.0.1-7
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.leash_0.0.1-3_iphoneos-arm.deb
-Size: 5910
+Filename: /debs//com.ridn.leash_0.0.1-7_iphoneos-arm.deb
+Size: 5926
 Installed-Size: 152
-MD5sum: 5bdfa2689a972d5ad7e9c16a8f6a0506
+MD5sum: 28ebb641aa1faf26ddee4c2cfbcb215d
 Description: 'NCObey' for iOS 9
 author: ridn <appleidname@yahoo.com>
 depiction: https://ridn.github.io/repo/depiction/leash
