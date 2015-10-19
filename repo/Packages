@@ -218,15 +218,15 @@ depiction: http://ridn.github.io/repo/depiction/hypeman/
 name: Hypeman
 
 Package: com.ridn.leash
-Version: 0.0.1-7
+Version: 0.0.1-11
 Section: Tweaks
 Maintainer: ridn <appleidname@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.leash_0.0.1-7_iphoneos-arm.deb
-Size: 5926
+Filename: /debs//com.ridn.leash_0.0.1-11_iphoneos-arm.deb
+Size: 6110
 Installed-Size: 152
-MD5sum: 28ebb641aa1faf26ddee4c2cfbcb215d
+MD5sum: ae3fac2d6c031d82905d67ec26c61ae5
 Description: 'NCObey' for iOS 9
 author: ridn <appleidname@yahoo.com>
 depiction: https://ridn.github.io/repo/depiction/leash
