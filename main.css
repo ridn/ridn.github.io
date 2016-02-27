@@ -10,20 +10,21 @@ body {
   font-family: 'Roboto', "HelveticaNeue", HelveticaNeue, Helvetica, Arial, sans-serif;
   font-weight: 100;
   
-  
-  
 }
 .center {
   position: relative;
   top: 40%;
   transform: translateY(-40%);
 }
+li{
+  list-style: none;
+  margin: -30px 0;
+}
 
 #menuBar {
   position: relative;
   width:50%;
   margin:auto;
-  top: 33%;
 }
 
 ul#list-nav {
