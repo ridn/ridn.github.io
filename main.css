@@ -2,16 +2,16 @@
 body {
   background: #272C35;
   align-content: center;
-
+  
   position: relative;
   -webkit-font-smoothing: subpixel-antialiased;
-
+  
   text-align: center;
   font-family: 'Roboto', "HelveticaNeue", HelveticaNeue, Helvetica, Arial, sans-serif;
   font-weight: 100;
-
-
-
+  
+  
+  
 }
 .center {
   position: relative;
@@ -20,59 +20,36 @@ body {
 }
 
 #menuBar {
+  position: relative;
   width:50%;
   margin:auto;
   top: 33%;
 }
 
-a:hover
-{
-  color: #0000;
-  text-decoration: none;
-  cursor: pointer;
-  border-top: 1px #9CA4B5 solid;
-
-}
-
-a {
-  color: #c8c8c8;
-  float: center;
-  /* text-decoration: none;
-  */
-  border-top: 1px #9CA4B5 solid;
-}
-
-
-
 ul#list-nav {
   background-color: #c8c8c8;
   list-style: none;
-  margin: 10px;
-  padding: 0;
-  /*    list-style: none; */
-  width: 525px;
+  width: 100%;
   align: center;
-}
-
-ul#list-nav li {
-  /*display: inline*/
 }
 
 ul#list-nav li a {
   text-align: center;
-
-  position: relative;
+  border-top: 1px #9CA4B5 solid;
+  
+  position:relative;
   text-decoration: none;
-  padding: 5px 0;
-  width: 100px;
-
+  padding: 5px 5px;
+  width: 17%;
+  
   color: #5CADF1;
   float: left;
-
+  
 }
 ul#list-nav li a:hover {
+  cursor: pointer;
+  text-decoration: none;
   border-top: 1px #FF8244 solid;
   font-family: 'Roboto', "HelveticaNeue", HelveticaNeue, Helvetica, Arial, sans-serif;
   font-weight: 100;
-  /*color: #c8c8c8;*/
 }
