@@ -26,6 +26,18 @@ li{
   width:50%;
   margin:auto;
 }
+a#tbfc {
+  text-align: center;
+
+  position:relative;
+  text-decoration: none;
+  padding: 5px 0;
+  width: 17%;
+
+  color: #5CADF1;
+  float:right;
+
+}
 
 ul#list-nav {
   background-color: #c8c8c8;
