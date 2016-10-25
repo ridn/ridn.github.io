@@ -1,42 +1,64 @@
 
 body {
   background: #272C35;
-  
+
   position: relative;
   -webkit-font-smoothing: subpixel-antialiased;
-  
+
   text-align: center;
   font-family: 'Roboto', "HelveticaNeue", HelveticaNeue, Helvetica, Arial, sans-serif;
   font-weight: 100;
-  
+
+}
+
+div.footer {
+
+  position: absolute;
+  bottom: 3px;
+  float: center;
+  width: 100%;
+
+	text-align: center;
+	color: #5C6370;
+	font-size: 14px;
+	opacity: .75;
 }
 .center {
   position: relative;
   top: 40%;
   transform: translateY(-40%);
   margin:auto;
+  padding-left:0;
 }
-li{
+.center h1 {
+  text-align:center;
+  font-size:50px;
+  letter-spacing:3;
+  font-weight:100;
+  color:#c8c8c8;
+  font-family: -apple-system-subheadline1, 'Helvetica Neue', 'Lucida Grande';
+}
+.center li{
   list-style: none;
   margin: -30px 0;
+}
+a#tbfc {
+  text-align: right;
+
+  position:absolute;
+  text-decoration: none;
+  right:0;
+  text-align: right;
+
+  color: #5CADF1;
+
 }
 
 #menuBar {
   position: relative;
   width:50%;
+  min-width: 350px;
   margin:auto;
-}
-a#tbfc {
-  text-align: center;
-
-  position:relative;
-  text-decoration: none;
-  padding: 5px 0;
-  width: 17%;
-
-  color: #5CADF1;
-  float:right;
-
 }
 
 ul#list-nav {
@@ -49,15 +71,16 @@ ul#list-nav {
 ul#list-nav li a {
   text-align: center;
   border-top: 1px #9CA4B5 solid;
-  
+
   position:relative;
   text-decoration: none;
   padding: 5px 0;
   width: 17%;
-  
+
   color: #5CADF1;
   float:left;
-  
+  transition: 500ms;
+
 }
 ul#list-nav li a:hover {
   cursor: pointer;
@@ -65,4 +88,125 @@ ul#list-nav li a:hover {
   border-top: 1px #FF8244 solid;
   font-family: 'Roboto', "HelveticaNeue", HelveticaNeue, Helvetica, Arial, sans-serif;
   font-weight: 100;
+}
+#side-nav{
+
+  line-height:35px;
+  width: 100%;
+  padding: 100px 2px;
+  overflow: hidden;
+  position:fixed;
+  right:2;
+  text-align: right;
+}
+
+ul#side-nav li a {
+  border-right: 1px #9CA4B5 solid;
+  letter-spacing:1.5;
+  font-family: -apple-system-subheadline1, 'Helvetica Neue', 'Lucida Grande';
+  font-weight:normal;;
+
+  text-decoration: none;
+  padding: 1px 8px;
+
+  color: #CDCDCD;
+  transition: 200ms;
+
+}
+ul#side-nav li a:hover {
+  cursor: pointer;
+  border-right: 1px #FF8244 solid;
+  padding: 5px 2px;
+}
+
+@keyframes reveal {
+
+    0% {
+      width: 1%;
+    }
+    88% {
+    width: 25%;
+    }
+    89% {
+    width: 100%;
+    }
+    90% {
+      transform:translateX(-8px);
+    }
+    95% {
+      transform:translateX(3px);
+    }
+    99% {
+      transform:translateX(-4px);
+    }
+    100% {
+      transform:translateX(0);
+    }
+}
+
+#bigTitle h1{
+  width: 100%;
+  border-right: 1px #FF8244 solid;
+  white-space: nowrap;
+  padding: 2px 5px;
+  overflow: hidden;
+  font-size:50px;
+  letter-spacing:3;
+  font-weight:100;
+  color:#c8c8c8;
+  font-family: -apple-system-subheadline1, 'Helvetica Neue', 'Lucida Grande';
+  animation-name: reveal;
+  animation-duration: 750ms;
+  position:fixed;
+  right:10;
+  text-align: right;
+}
+#pushedContent {
+  padding: 20% 15%;
+  width:50%
+  right:0;
+  left:0;
+
+}
+#paragraphText p{
+  color:#94B1BE;
+
+}
+#projects p{
+  max-width: 60px;
+}
+table {
+  border :0;
+margin: 0px auto;
+}
+td:hover {
+  border: 1px #5C6370 solid;
+  border-radius:10px
+}
+td {
+    border: 0;
+    /* change the border-color to disguise the presence of the actual border
+       left as #000 here, to show where the fake 'border' sits in relation to
+       the actual border-right */
+    padding: 5.5em;
+    position: relative;
+}
+td::before {
+    content: '';
+    background-color: #5C6370;
+    position: absolute;
+    left: -1%;
+    top: 35%;
+    bottom: 35%;
+    width: 1px;
+}
+
+td::after {
+    content: '';
+    background-color: #5C6370;
+    position: absolute;
+    left: 100%;
+    top: 35%;
+    bottom: 35%;
+    width: 1px;
 }
