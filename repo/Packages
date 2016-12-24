@@ -1,280 +1,295 @@
 Package: com.ridan.allsnap
-Version: 0.0.1-1
-Section: Tweaks
-Maintainer: ridn
+Name: AllSnap
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridan.allsnap_0.0.1-1_iphoneos-arm.deb
-Size: 5798
-Installed-Size: 88
-MD5sum: aaa2c8182c3b194c501e7e55adc0ca48
 Description: Select all friends to receive a snap. Active by holding the "Add Friends" button on the recipient selection screen.
-author: ridn
-name: AllSnap
+Maintainer: ridn
+Author: ridn
+Section: Tweaks
+Version: 0.0.1-1
+Installed-Size: 88
+Size: 5798
+MD5sum: aaa2c8182c3b194c501e7e55adc0ca48
+Filename: ./debs/com.ridan.allsnap_0.0.1-1_iphoneos-arm.deb
 
 Package: com.ridan.auditus
-Version: 0.0.1-2
-Section: Tweaks
-Maintainer: RiDan
+Name: Auditus
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridan.auditus_0.0.1-2_iphoneos-arm.deb
-Size: 22440
-Installed-Size: 132
-MD5sum: 997a5acf54a9e03c9e0873bc0d1fc172
 Description: An awesome MobileSubstrate tweak!
-author: RiDan
-name: Auditus
+Maintainer: RiDan
+Author: RiDan
+Section: Tweaks
+Version: 0.0.1-2
+Installed-Size: 132
+Size: 22440
+MD5sum: 997a5acf54a9e03c9e0873bc0d1fc172
+Filename: ./debs/com.ridan.auditus_0.0.1-2_iphoneos-arm.deb
 
 Package: com.ridan.bttu
-Version: 0.0.2-3
-Section: Tweaks
-Maintainer: ridn
+Name: BetterTTU
 Depends: mobilesubstrate , preferenceloader, firmware (>= 7.0)
 Architecture: iphoneos-arm
-Filename: /debs//com.ridan.bttu_0.0.2-3_iphoneos-arm.deb
-Size: 37326
-Installed-Size: 220
-MD5sum: 37e98303bac026ac9c176d0ec34085e2
 Description: An awesome MobileSubstrate tweak!
-author: ridn
-name: BetterTTU
+Maintainer: ridn
+Author: ridn
+Section: Tweaks
+Version: 0.0.2-3
+Installed-Size: 220
+Size: 37326
+MD5sum: 37e98303bac026ac9c176d0ec34085e2
+Filename: ./debs/com.ridan.bttu_0.0.2-3_iphoneos-arm.deb
 
 Package: com.ridan.disablecam
-Version: 0.0.2-1
-Section: Tweaks
-Maintainer: RiDan
+Name: DisableCam
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridan.disablecam_0.0.2-1_iphoneos-arm.deb
-Size: 5820
-Installed-Size: 92
-MD5sum: 206d7712614b17d8f1dd5e9d58d4c1df
 Description: An awesome MobileSubstrate tweak!
-author: RiDan
-name: DisableCam
+Maintainer: RiDan
+Author: RiDan
+Section: Tweaks
+Version: 0.0.2-1
+Installed-Size: 92
+Size: 5820
+MD5sum: 206d7712614b17d8f1dd5e9d58d4c1df
+Filename: ./debs/com.ridan.disablecam_0.0.2-1_iphoneos-arm.deb
 
 Package: com.ridan.pjs
-Version: 0.0.1-2
-Section: Tweaks
-Maintainer: ridan
+Name: PageJumps (Skeleton)
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridan.pjs_0.0.1-2_iphoneos-arm.deb
-Size: 4724
-Installed-Size: 88
-MD5sum: db25dca9ed3e793e4cc0543d2a2fefca
 Description: A barebones iOS 7 compatible PageJumps.
-author: ridan
-name: PageJumps (Skeleton)
+Maintainer: ridan
+Author: ridan
+Section: Tweaks
+Version: 0.0.1-2
+Installed-Size: 88
+Size: 4724
+MD5sum: db25dca9ed3e793e4cc0543d2a2fefca
+Filename: ./debs/com.ridan.pjs_0.0.1-2_iphoneos-arm.deb
 
 Package: com.ridan.returndismiss
-Version: 0.0.2-2
-Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
+Name: ReturnDismiss
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridan.returndismiss_0.0.2-2_iphoneos-arm.deb
-Size: 5810
-Installed-Size: 88
-MD5sum: 39ea6c7ae69cb8ba663ca7a43fa13de0
+Maintainer: RiDan
+Section: Tweaks
+Maintainer: ridn <appleidname@yahoo.com>
 Description: Dismiss iOS Keyboard with return button.
-author: RiDan <appleidname@yahoo.com>
-depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=returndismissDp
+Sponsor: ridn <http://ridn.github.io>
+Author: RiDan <appleidname@yahoo.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=returndismissDp
 dev: appleidname
-name: ReturnDismiss
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file= returndismissDp
-sponsor: ridn <http://ridn.github.io>
+Version: 0.0.2-2
+Installed-Size: 88
+Size: 5810
+MD5sum: 39ea6c7ae69cb8ba663ca7a43fa13de0
+Filename: ./debs/com.ridan.returndismiss_0.0.2-2_iphoneos-arm.deb
 
 Package: com.ridan.snapchatinit
-Version: 0.0.1-3
-Section: Tweaks
-Maintainer: ridn
+Name: SnapFeed
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridan.snapchatinit_0.0.1-3_iphoneos-arm.deb
-Size: 3432
-Installed-Size: 88
-MD5sum: ec2770b8fb8416ba32587d208d09e00a
 Description: Load SnapChat directly to inbox feed!
-author: ridn
-name: SnapFeed
+Maintainer: ridn
+Author: ridn
+Section: Tweaks
+Version: 0.0.1-3
+Installed-Size: 88
+Size: 3432
+MD5sum: ec2770b8fb8416ba32587d208d09e00a
+Filename: ./debs/com.ridan.snapchatinit_0.0.1-3_iphoneos-arm.deb
 
 Package: com.ridan.statuscolor
-Version: 0.3.1-2
-Section: Tweaks
-Maintainer: System Administrator
+Name: StatusColor
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridan.statuscolor_0.3.1-2_iphoneos-arm.deb
-Size: 29616
-Installed-Size: 216
-MD5sum: 9298ed7600dc2c4c67ee95d17fe6ae33
 Description: An awesome MobileSubstrate tweak!
-author: System Administrator
-name: StatusColor
+Maintainer: System Administrator
+Author: System Administrator
+Section: Tweaks
+Version: 0.3.1-2
+Installed-Size: 216
+Size: 29616
+MD5sum: 9298ed7600dc2c4c67ee95d17fe6ae33
+Filename: ./debs/com.ridan.statuscolor_0.3.1-2_iphoneos-arm.deb
 
 Package: com.ridan.twttrsk
-Version: 0.0.1-17
-Section: Tweaks
-Maintainer: ridn
+Name: Twitter Showkeyboard
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridan.twttrsk_0.0.1-17_iphoneos-arm.deb
-Size: 2052
-Installed-Size: 16
-MD5sum: aeb66f55f7f5cc622ea3a5cdc48442d5
 Description: Twitter compose sheet open to keyboard!
-author: ridn
-name: Twitter Showkeyboard
+Maintainer: ridn
+Author: ridn
+Section: Tweaks
+Version: 0.0.1-17
+Installed-Size: 16
+Size: 2052
+MD5sum: aeb66f55f7f5cc622ea3a5cdc48442d5
+Filename: ./debs/com.ridan.twttrsk_0.0.1-17_iphoneos-arm.deb
 
 Package: com.ridan.ud4w
-Version: 1.0.1-1
-Section: Tweaks
-Maintainer: ridn
+Name: UnDim4What
 Depends: mobilesubstrate , com.a3tweaks.flipswitch
 Architecture: iphoneos-arm
-Filename: /debs//com.ridan.ud4w_1.0.1-1_iphoneos-arm.deb
-Size: 14160
-Installed-Size: 152
-MD5sum: 1cb841ee6cde90794c4eec4f802237cd
 Description: Undim the lock screen upon now playing track changes.
-author: ridn
-name: UnDim4What
-icon:file: ///Library/Switches/UD4WFS.bundle/glyph.pdf
+Maintainer: ridn
+Author: ridn
+Section: Tweaks
+icon:file:///Library/Switches/UD4WFS.bundle/glyph.pdf
+Version: 1.0.1-1
+Installed-Size: 152
+Size: 14160
+MD5sum: 1cb841ee6cde90794c4eec4f802237cd
+Filename: ./debs/com.ridan.ud4w_1.0.1-1_iphoneos-arm.deb
 
 Package: com.ridan.xccolorlite
-Version: 0.0.1-19
-Section: Tweaks
-Maintainer: ridn
+Name: XCColors Lite
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridan.xccolorlite_0.0.1-19_iphoneos-arm.deb
-Size: 39794
-Installed-Size: 252
-MD5sum: 1e7209f0dc45c87ecf64db0f5be3a3f0
 Description: An awesome MobileSubstrate tweak!
-author: ridn
-name: XCColors Lite
+Maintainer: ridn
+Author: ridn
+Section: Tweaks
+Version: 0.0.1-19
+Installed-Size: 252
+Size: 39794
+MD5sum: 1e7209f0dc45c87ecf64db0f5be3a3f0
+Filename: ./debs/com.ridan.xccolorlite_0.0.1-19_iphoneos-arm.deb
+
+Package: com.ridn.bait
+Name: bait
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: r_idn <appleidname@yahoo.com>
+Author: r_idn <appleidname@yahoo.com>
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 120
+Size: 123396
+MD5sum: cbcdb89417ce20bbc468d3690935ea40
+Filename: ./debs/com.ridn.bait_0.0.1-2+debug_iphoneos-arm.deb
 
 Package: com.ridn.bounce
-Version: 1.0.0-3
-Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
+Name: Bounce
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.bounce_1.0.0-3_iphoneos-arm.deb
-Size: 6136
-Installed-Size: 72
-MD5sum: ea1bad852303c81c8ceb6cbc23315cad
 Description: "PlayTask" for iOS8
-author: ridn <appleidname@yahoo.com>
-depiction: http://ridn.github.io/repo/depiction/bounce/
-name: Bounce
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: http://ridn.github.io/repo/depiction/bounce/
+Version: 1.0.0-3
+Installed-Size: 72
+Size: 6136
+MD5sum: ea1bad852303c81c8ceb6cbc23315cad
+Filename: ./debs/com.ridn.bounce_1.0.0-3_iphoneos-arm.deb
 
 Package: com.ridn.callback
-Version: 1.1.1-1
-Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
+Name: CallBack
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.callback_1.1.1-1_iphoneos-arm.deb
-Size: 8906
-Installed-Size: 88
-MD5sum: 210c372ae50ab6fa6c97d260c6acb932
 Description: Quick call back!
-author: ridn <appleidname@yahoo.com>
-depiction: http://ridn.github.io/repo/depiction/callback/
-name: CallBack
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: http://ridn.github.io/repo/depiction/callback/
+Version: 1.1.1-1
+Installed-Size: 88
+Size: 8906
+MD5sum: 210c372ae50ab6fa6c97d260c6acb932
+Filename: ./debs/com.ridn.callback_1.1.1-1_iphoneos-arm.deb
 
 Package: com.ridn.cog
-Version: 0.0.1-7
-Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
+Name: Cog
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.cog_0.0.1-7_iphoneos-arm.deb
-Size: 37876
-Installed-Size: 144
-MD5sum: 5f949717a489e461df3a5fcbd91d9adf
 Description: Indicate if the last message was incoming or outgoing!
-author: ridn <appleidname@yahoo.com>
-depiction: https://ridn.github.io/repo/depiction/cog
-name: Cog
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: https://ridn.github.io/repo/depiction/cog
+Version: 0.0.1-7
+Installed-Size: 144
+Size: 37876
+MD5sum: 5f949717a489e461df3a5fcbd91d9adf
+Filename: ./debs/com.ridn.cog_0.0.1-7_iphoneos-arm.deb
 
 Package: com.ridn.hypeman
-Version: 0.0.3-1
-Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
+Name: Hypeman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.hypeman_0.0.3-1_iphoneos-arm.deb
-Size: 33994
-Installed-Size: 184
-MD5sum: 8980b8749ed4ec2d5f71cc366cef45ff
 Description: Announce now playing track changes!
-author: ridn <appleidname@yahoo.com>
-depiction: http://ridn.github.io/repo/depiction/hypeman/
-name: Hypeman
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Depiction: http://ridn.github.io/repo/depiction/hypeman/
+Section: Tweaks
+Version: 0.0.3-1
+Installed-Size: 184
+Size: 33994
+MD5sum: 8980b8749ed4ec2d5f71cc366cef45ff
+Filename: ./debs/com.ridn.hypeman_0.0.3-1_iphoneos-arm.deb
 
 Package: com.ridn.leash
-Version: 0.0.1-11
-Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
+Name: Leash
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.leash_0.0.1-11_iphoneos-arm.deb
-Size: 6110
-Installed-Size: 152
-MD5sum: ae3fac2d6c031d82905d67ec26c61ae5
 Description: 'NCObey' for iOS 9
-author: ridn <appleidname@yahoo.com>
-depiction: https://ridn.github.io/repo/depiction/leash
-name: Leash
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: https://ridn.github.io/repo/depiction/leash
+Version: 0.0.1-11
+Installed-Size: 152
+Size: 6110
+MD5sum: ae3fac2d6c031d82905d67ec26c61ae5
+Filename: ./debs/com.ridn.leash_0.0.1-11_iphoneos-arm.deb
 
 Package: com.ridn.letigre
-Version: 0.0.1-941
-Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
+Name: Magnum
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.letigre_0.0.1-941_iphoneos-arm.deb
-Size: 111902
+Description:Contact specific message colors.
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Depiction: http://ridn.github.io/repo/depiction/magnum
+Icon: file:///Library/Application Support/MagnumColorSettings.bundle/icon.png
+Section: Tweaks
+Version: 0.0.1-941
 Installed-Size: 316
+Size: 111902
 MD5sum: 1679d5c4b5db3e43534a12162218af69
-Description: Contact specific message colors.
-icon: file:///Library/Application Support/MagnumColorSettings.bundle/icon.png
-author: ridn <appleidname@yahoo.com>
-depiction: http://ridn.github.io/repo/depiction/magnum
-name: Magnum
+Filename: ./debs/com.ridn.letigre_0.0.1-941_iphoneos-arm.deb
 
 Package: com.ridn.mutiny
-Version: 0.0.1-7
-Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
+Name: Mutiny
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.mutiny_0.0.1-7_iphoneos-arm.deb
-Size: 6320
-Installed-Size: 88
-MD5sum: 640c6d82e1a20d33a21369cc048937f4
 Description: Mute those convos right from the list!
-author: ridn <appleidname@yahoo.com>
-depiction: http://ridn.github.io/repo/depiction/mutiny/
-name: Mutiny
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Depiction: http://ridn.github.io/repo/depiction/mutiny/
+Section: Tweaks
+Version: 0.0.1-7
+Installed-Size: 88
+Size: 6320
+MD5sum: 640c6d82e1a20d33a21369cc048937f4
+Filename: ./debs/com.ridn.mutiny_0.0.1-7_iphoneos-arm.deb
 
 Package: com.ridn.sqone
-Version: 0.0.1-4
-Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
+Name: Square One
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs//com.ridn.sqone_0.0.1-4_iphoneos-arm.deb
-Size: 3254
+Description: Always load top of Today View 
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Depiction: http://ridn.github.io/repo/depiction/squareone
+Section: Tweaks
+Version: 0.0.1-4
 Installed-Size: 72
+Size: 3254
 MD5sum: b0f7e2333a86475fc237bbea01e51d11
-Description: Always load top of Today View
-author: ridn <appleidname@yahoo.com>
-depiction: http://ridn.github.io/repo/depiction/squareone
-name: Square One
+Filename: ./debs/com.ridn.sqone_0.0.1-4_iphoneos-arm.deb
 
