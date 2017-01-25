@@ -5,6 +5,7 @@ body {
     text-align: center;
     font-family: 'Roboto', "HelveticaNeue", HelveticaNeue, Helvetica, Arial, sans-serif;
     font-weight: 100;
+
 }
 
 div.footer {
@@ -28,7 +29,7 @@ div.footer {
 
 .center h1 {
     text-align: center;
-    font-size: 50px;
+    font-size: 57px;
     letter-spacing: 3;
     font-weight: 100;
     color: #c8c8c8;
@@ -53,14 +54,16 @@ a#tbfc {
     position: relative;
     width: 50%;
     min-width: 350px;
+    left: 3.3%;
     margin: auto;
 }
-
+ul {
+  -webkit-padding-start: 0px;
+}
 ul#list-nav {
     background-color: #c8c8c8;
     list-style: none;
     width: 100%;
-    align: center;
 }
 
 ul#list-nav li a {
@@ -75,12 +78,15 @@ ul#list-nav li a {
     transition: 500ms;
 }
 
-ul#list-nav li a:hover {
+ul#list-nav li a:hover{
     cursor: pointer;
     text-decoration: none;
     border-top: 1px #FF8244 solid;
-    font-family: 'Roboto', "HelveticaNeue", HelveticaNeue, Helvetica, Arial, sans-serif;
-    font-weight: 100;
+/*
+    padding-top: 32px;
+    transition: 200ms;
+*/
+
 }
 
 #side-nav {
@@ -98,7 +104,7 @@ ul#side-nav li a {
     letter-spacing: 1.5;
     font-family: -apple-system-subheadline1, 'Helvetica Neue', 'Lucida Grande';
     font-weight: normal;
-    ;
+
     text-decoration: none;
     padding: 1px 8px;
     color: #CDCDCD;
@@ -177,7 +183,7 @@ table {
     padding: 0px;
 }
 
-td:hover {
+td:hover{
     border: .5px #323946 solid;
     border-radius: 6px;
     background-color: #20252E;
@@ -282,7 +288,7 @@ td::after {
 #chevron:hover {
   opacity: 0.5;
   transition: 250ms;
-  margin:3px 0px;
+  transform: translateY(4px);
 
 }
 
