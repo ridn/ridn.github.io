@@ -158,20 +158,6 @@ Size: 39794
 MD5sum: 1e7209f0dc45c87ecf64db0f5be3a3f0
 Filename: ./debs/com.ridan.xccolorlite_0.0.1-19_iphoneos-arm.deb
 
-Package: com.ridn.bait
-Name: bait
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: r_idn <appleidname@yahoo.com>
-Author: r_idn <appleidname@yahoo.com>
-Section: Tweaks
-Version: 0.0.1-2+debug
-Installed-Size: 120
-Size: 123396
-MD5sum: cbcdb89417ce20bbc468d3690935ea40
-Filename: ./debs/com.ridn.bait_0.0.1-2+debug_iphoneos-arm.deb
-
 Package: com.ridn.bounce
 Name: Bounce
 Depends: mobilesubstrate
@@ -201,6 +187,21 @@ Installed-Size: 88
 Size: 8906
 MD5sum: 210c372ae50ab6fa6c97d260c6acb932
 Filename: ./debs/com.ridn.callback_1.1.1-1_iphoneos-arm.deb
+
+Package: com.ridn.cheader
+Name: Cheader
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: r_idn <appleidname@yahoo.com>
+Author: r_idn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: http://ridn.me/repo/depiction/cheader/
+Version: 0.0.2-1+debug
+Installed-Size: 120
+Size: 123426
+MD5sum: a669a07ba1d5feee46acd5bf0e5ff3eb
+Filename: ./debs/com.ridn.cheader_0.0.2-1+debug_iphoneos-arm.deb
 
 Package: com.ridn.cog
 Name: Cog
