@@ -192,16 +192,46 @@ Package: com.ridn.cheader
 Name: Cheader
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: r_idn <appleidname@yahoo.com>
+Author: r_idn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: http://ridn.me/repo/depiction/cheader/
+Version: 0.0.2-1+debug
+Installed-Size: 120
+Size: 123426
+MD5sum: a669a07ba1d5feee46acd5bf0e5ff3eb
+Filename: ./debs/com.ridn.cheader_0.0.2-1+debug_iphoneos-arm.deb
+
+Package: com.ridn.cheader
+Name: Cheader
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
 Description: Colored Banner Headers.
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
 Depiction: http://ridn.me/repo/depiction/cheader/
-Version: 0.0.3-3+debug
+Version: 0.0.3-1+debug
 Installed-Size: 120
 Size: 123936
-MD5sum: b32d89354a78a1297bb1ed9eb76be9e2
-Filename: ./debs/com.ridn.cheader_0.0.3-3+debug_iphoneos-arm.deb
+MD5sum: de0f7192a79cd956b0ffea01c160633f
+Filename: ./debs/com.ridn.cheader_0.0.3-1+debug_iphoneos-arm.deb
+
+Package: com.ridn.cheader
+Name: Cheader
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Colored Banner Headers.
+Maintainer: r_idn <appleidname@yahoo.com>
+Author: r_idn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: http://ridn.me/repo/depiction/cheader/
+Version: 0.0.3-16+debug
+Installed-Size: 128
+Size: 129056
+MD5sum: 2ced68a1287c9c412594fe5d9057b4f9
+Filename: ./debs/com.ridn.cheader_0.0.3-16+debug_iphoneos-arm.deb
 
 Package: com.ridn.cog
 Name: Cog
