@@ -309,21 +309,6 @@ Size: 111902
 MD5sum: 1679d5c4b5db3e43534a12162218af69
 Filename: ./debs/com.ridn.letigre_0.0.1-941_iphoneos-arm.deb
 
-Package: com.ridn.linc
-Name: Linc
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/linc
-Version: 0.0.1-2+debug
-Installed-Size: 120
-Size: 121876
-MD5sum: 08762934271493abdf92b9217dacbd6a
-Filename: ./debs/com.ridn.linc_0.0.1-2+debug_iphoneos-arm.deb
-
 Package: com.ridn.mutiny
 Name: Mutiny
 Depends: mobilesubstrate
@@ -353,4 +338,19 @@ Installed-Size: 72
 Size: 3254
 MD5sum: b0f7e2333a86475fc237bbea01e51d11
 Filename: ./debs/com.ridn.sqone_0.0.1-4_iphoneos-arm.deb
+
+Package: com.ridn.tinc
+Name: Tinc
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: http://ridn.me/repo/depiction/tinc
+Version: 0.0.1-6+debug
+Installed-Size: 124
+Size: 128544
+MD5sum: 78cd4ede4dfc7c22b840d1de59e6d8cf
+Filename: ./debs/com.ridn.tinc_0.0.1-6+debug_iphoneos-arm.deb
 
