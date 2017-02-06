@@ -354,3 +354,18 @@ Size: 128544
 MD5sum: 78cd4ede4dfc7c22b840d1de59e6d8cf
 Filename: ./debs/com.ridn.tinc_0.0.1-6+debug_iphoneos-arm.deb
 
+Package: com.ridn.tinc
+Name: Tinc
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Check out yo brand new tints 
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: http://ridn.me/repo/depiction/tinc
+Version: 0.0.2-1+debug
+Installed-Size: 128
+Size: 129572
+MD5sum: f8dea5626eefe73a8cc12c2073c3b07e
+Filename: ./debs/com.ridn.tinc_0.0.2-1+debug_iphoneos-arm.deb
+
