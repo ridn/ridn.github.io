@@ -172,6 +172,20 @@ Size: 142848
 MD5sum: 19c2e3b0b155c58d4b387789c7c9fe2d
 Filename: ./debs/com.ridn.blacklist_0.0.1-10+debug_iphoneos-arm.deb
 
+Package: com.ridn.blacklist
+Name: blacklist
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Version: 0.0.1-11+debug
+Installed-Size: 140
+Size: 143872
+MD5sum: 021174e896facf68f500a150b2ed38e9
+Filename: ./debs/com.ridn.blacklist_0.0.1-11+debug_iphoneos-arm.deb
+
 Package: com.ridn.bounce
 Name: Bounce
 Depends: mobilesubstrate
