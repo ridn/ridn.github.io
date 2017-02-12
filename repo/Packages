@@ -166,11 +166,11 @@ Description: An awesome MobileSubstrate tweak!
 Maintainer: ridn <appleidname@yahoo.com>
 Author: ridn <appleidname@yahoo.com>
 Section: Tweaks
-Version: 0.0.1-3+debug
-Installed-Size: 124
-Size: 127488
-MD5sum: c9fa629bcebade1cceb3ff35d513a175
-Filename: ./debs/com.ridn.blacklist_0.0.1-3+debug_iphoneos-arm.deb
+Version: 0.0.1-4+debug
+Installed-Size: 140
+Size: 143872
+MD5sum: 7c72ce2ef09fec4d20c772ce934eebf5
+Filename: ./debs/com.ridn.blacklist_0.0.1-4+debug_iphoneos-arm.deb
 
 Package: com.ridn.bounce
 Name: Bounce
