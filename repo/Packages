@@ -210,11 +210,11 @@ Maintainer: ridn <appleidname@yahoo.com>
 Author: ridn <appleidname@yahoo.com>
 Section: Tweaks
 Depiction: http://ridn.me/repo/depiction/pigeon/
-Version: 0.0.1-3+debug
+Version: 0.0.1-4+debug
 Installed-Size: 136
-Size: 138776
-MD5sum: 52d25e90cd56c9a67595362a386171be
-Filename: ./debs/com.ridn.burd_0.0.1-3+debug_iphoneos-arm.deb
+Size: 138778
+MD5sum: 1f78e04575fb432dc4a05539575de238
+Filename: ./debs/com.ridn.burd_0.0.1-4+debug_iphoneos-arm.deb
 
 Package: com.ridn.callback
 Name: CallBack
