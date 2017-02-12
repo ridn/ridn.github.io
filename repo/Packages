@@ -158,6 +158,20 @@ Size: 39794
 MD5sum: 1e7209f0dc45c87ecf64db0f5be3a3f0
 Filename: ./debs/com.ridan.xccolorlite_0.0.1-19_iphoneos-arm.deb
 
+Package: com.ridn.blacklist
+Name: blacklist
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Version: 0.0.1-3+debug
+Installed-Size: 124
+Size: 127488
+MD5sum: c9fa629bcebade1cceb3ff35d513a175
+Filename: ./debs/com.ridn.blacklist_0.0.1-3+debug_iphoneos-arm.deb
+
 Package: com.ridn.bounce
 Name: Bounce
 Depends: mobilesubstrate
