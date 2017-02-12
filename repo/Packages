@@ -201,21 +201,6 @@ Size: 6136
 MD5sum: ea1bad852303c81c8ceb6cbc23315cad
 Filename: ./debs/com.ridn.bounce_1.0.0-3_iphoneos-arm.deb
 
-Package: com.ridn.burd
-Name: Pigeon
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/pigeon/
-Version: 0.0.1-4+debug
-Installed-Size: 136
-Size: 138778
-MD5sum: 1f78e04575fb432dc4a05539575de238
-Filename: ./debs/com.ridn.burd_0.0.1-4+debug_iphoneos-arm.deb
-
 Package: com.ridn.callback
 Name: CallBack
 Depends: mobilesubstrate
