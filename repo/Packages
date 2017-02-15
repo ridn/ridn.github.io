@@ -344,11 +344,11 @@ Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
 Depiction: http://ridn.me/repo/depiction/cheader/
-Version: 0.0.5-1+debug
+Version: 0.0.5-2+debug
 Installed-Size: 148
-Size: 150560
-MD5sum: a8ff678d5a8ac95b9d23c254b8827041
-Filename: ./debs/com.ridn.cheader_0.0.5-1+debug_iphoneos-arm.deb
+Size: 150558
+MD5sum: 7c2a96c133ce1771ee0526b94ae64f78
+Filename: ./debs/com.ridn.cheader_0.0.5-2+debug_iphoneos-arm.deb
 
 Package: com.ridn.cog
 Name: Cog
