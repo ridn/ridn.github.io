@@ -200,6 +200,21 @@ Size: 270848
 MD5sum: 092db8aecbf6874477e539d9f40bd16d
 Filename: ./debs/com.ridn.blacklist_0.0.2-1+debug_iphoneos-arm.deb
 
+Package: com.ridn.blacklist
+Name: blacklist
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Blacklist words to certain contacts
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: http://ridn.me/repo/depiction/blacklist
+Version: 0.0.3-1+debug
+Installed-Size: 280
+Size: 275994
+MD5sum: 209b0ba1ae4152c7c43a7ff3f0b3169a
+Filename: ./debs/com.ridn.blacklist_0.0.3-1+debug_iphoneos-arm.deb
+
 Package: com.ridn.bounce
 Name: Bounce
 Depends: mobilesubstrate
