@@ -215,6 +215,21 @@ Size: 275994
 MD5sum: 209b0ba1ae4152c7c43a7ff3f0b3169a
 Filename: ./debs/com.ridn.blacklist_0.0.3-1+debug_iphoneos-arm.deb
 
+Package: com.ridn.blacklist
+Name: blacklist
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Blacklist words to certain contacts
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: http://ridn.me/repo/depiction/blacklist
+Version: 0.0.3-2+debug
+Installed-Size: 280
+Size: 275994
+MD5sum: d9be59b5747be021e24bafece5e59b97
+Filename: ./debs/com.ridn.blacklist_0.0.3-2+debug_iphoneos-arm.deb
+
 Package: com.ridn.bounce
 Name: Bounce
 Depends: mobilesubstrate
@@ -374,11 +389,11 @@ Maintainer: ridn <appleidname@yahoo.com>
 Author: ridn <appleidname@yahoo.com>
 Depiction: http://ridn.github.io/repo/depiction/hypeman/
 Section: Tweaks
-Version: 0.0.3-4+debug
+Version: 0.0.3-5+debug
 Installed-Size: 308
 Size: 306212
-MD5sum: 68040c8fa3e19a00f4d3cd4ab9007d44
-Filename: ./debs/com.ridn.hypeman_0.0.3-4+debug_iphoneos-arm.deb
+MD5sum: af3367d7737ac99025d1af15e28063df
+Filename: ./debs/com.ridn.hypeman_0.0.3-5+debug_iphoneos-arm.deb
 
 Package: com.ridn.leash
 Name: Leash
