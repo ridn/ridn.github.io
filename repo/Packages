@@ -516,6 +516,20 @@ Size: 3254
 MD5sum: b0f7e2333a86475fc237bbea01e51d11
 Filename: ./debs/com.ridn.sqone_0.0.1-4_iphoneos-arm.deb
 
+Package: com.ridn.squish
+Name: squish
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ridn
+Author: ridn
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 136
+Size: 139756
+MD5sum: 6406aa0b1a95771c8f9754fed960554f
+Filename: ./debs/com.ridn.squish_0.0.1-1+debug_iphoneos-arm.deb
+
 Package: com.ridn.tinc
 Name: Tinc
 Depends: mobilesubstrate, preferenceloader
