@@ -419,11 +419,11 @@ Maintainer: ridn <appleidname@yahoo.com>
 Author: ridn <appleidname@yahoo.com>
 Depiction: http://ridn.github.io/repo/depiction/hypeman/
 Section: Tweaks
-Version: 0.0.3-6+debug
+Version: 0.0.3-7+debug
 Installed-Size: 312
-Size: 308258
-MD5sum: 29219a51bb26485d05c1ea2a296f7f62
-Filename: ./debs/com.ridn.hypeman_0.0.3-6+debug_iphoneos-arm.deb
+Size: 308772
+MD5sum: dab138e516b1f66cf3e7ba482d6d5a49
+Filename: ./debs/com.ridn.hypeman_0.0.3-7+debug_iphoneos-arm.deb
 
 Package: com.ridn.leash
 Name: Leash
