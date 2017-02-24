@@ -464,11 +464,11 @@ Maintainer: ridn <appleidname@yahoo.com>
 Author: ridn <appleidname@yahoo.com>
 Depiction: http://ridn.github.io/repo/depiction/hypeman/
 Section: Tweaks
-Version: 0.0.4-4+debug
+Version: 0.0.4-5+debug
 Installed-Size: 348
-Size: 345636
-MD5sum: 68c85245188199e4d767d66dc76631ba
-Filename: ./debs/com.ridn.hypeman_0.0.4-4+debug_iphoneos-arm.deb
+Size: 345124
+MD5sum: 8841dedb8d3c53a62d52401579465e1c
+Filename: ./debs/com.ridn.hypeman_0.0.4-5+debug_iphoneos-arm.deb
 
 Package: com.ridn.leash
 Name: Leash
