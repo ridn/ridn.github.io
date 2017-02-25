@@ -576,6 +576,21 @@ Size: 146458
 MD5sum: fc7f434ef56d5504d7c1973abc1e153b
 Filename: ./debs/com.ridn.lst_0.0.1-2+debug_iphoneos-arm.deb
 
+Package: com.ridn.lst
+Name: Temporal
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: LST, Lockscreen time zones!
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: http://ridn.me/repo/depiction/temporal
+Version: 0.0.2-1+debug
+Installed-Size: 148
+Size: 150042
+MD5sum: e9772dcdb285198659796c8d66f79ad2
+Filename: ./debs/com.ridn.lst_0.0.2-1+debug_iphoneos-arm.deb
+
 Package: com.ridn.mutiny
 Name: Mutiny
 Depends: mobilesubstrate
