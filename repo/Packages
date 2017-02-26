@@ -359,11 +359,11 @@ Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
 Depiction: http://ridn.me/repo/depiction/cheader/
-Version: 0.0.5-2+debug
+Version: 0.0.5-10+debug
 Installed-Size: 148
-Size: 150558
-MD5sum: 7c2a96c133ce1771ee0526b94ae64f78
-Filename: ./debs/com.ridn.cheader_0.0.5-2+debug_iphoneos-arm.deb
+Size: 150560
+MD5sum: 2579b3ba341ca4b7aa7ed3f6c775c8d9
+Filename: ./debs/com.ridn.cheader_0.0.5-10+debug_iphoneos-arm.deb
 
 Package: com.ridn.cheader
 Name: Cheader
@@ -374,11 +374,11 @@ Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
 Depiction: http://ridn.me/repo/depiction/cheader/
-Version: 0.0.5-9+debug
+Version: 0.0.5-2+debug
 Installed-Size: 148
-Size: 150560
-MD5sum: bf0f9a9cb472811f49e347041d3db1b4
-Filename: ./debs/com.ridn.cheader_0.0.5-9+debug_iphoneos-arm.deb
+Size: 150558
+MD5sum: 7c2a96c133ce1771ee0526b94ae64f78
+Filename: ./debs/com.ridn.cheader_0.0.5-2+debug_iphoneos-arm.deb
 
 Package: com.ridn.cog
 Name: Cog
