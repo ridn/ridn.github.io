@@ -719,9 +719,9 @@ Maintainer: ridn <appleidname@yahoo.com>
 Author: ridn <appleidname@yahoo.com>
 Section: Tweaks
 Depiction: http://ridn.me/repo/depiction/tinc
-Version: 0.0.2-3+debug
+Version: 0.0.2-4+debug
 Installed-Size: 144
-Size: 146466
-MD5sum: e022d2606959ca887fadaf5fa6d99cd1
-Filename: ./debs/com.ridn.tinc_0.0.2-3+debug_iphoneos-arm.deb
+Size: 146978
+MD5sum: 82f36b56b0ea536a03831abad50f1e06
+Filename: ./debs/com.ridn.tinc_0.0.2-4+debug_iphoneos-arm.deb
 
