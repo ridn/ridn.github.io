@@ -644,11 +644,11 @@ Maintainer: ridn <appleidname@yahoo.com>
 Author: ridn <appleidname@yahoo.com>
 Section: Tweaks
 Depiction: https://ridn.github.io/repo/depiction/leash
-Version: 1.1-7+debug
+Version: 1.1-8+debug
 Installed-Size: 140
-Size: 141850
-MD5sum: 25f06e1636380e56c6e4a56ec11a8d91
-Filename: ./debs/com.ridn.leash_1.1-7+debug_iphoneos-arm.deb
+Size: 141854
+MD5sum: 8b4fb7b476215e9c830458d35965ab55
+Filename: ./debs/com.ridn.leash_1.1-8+debug_iphoneos-arm.deb
 
 Package: com.ridn.letigre
 Name: Magnum
