@@ -635,6 +635,21 @@ Size: 140824
 MD5sum: 353e0940cb16105c2b3d16f2eaee3974
 Filename: ./debs/com.ridn.leash_1.1-6+debug_iphoneos-arm.deb
 
+Package: com.ridn.leash
+Name: Leash
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 'NCObey' for iOS 9/10
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: https://ridn.github.io/repo/depiction/leash
+Version: 1.1-7+debug
+Installed-Size: 140
+Size: 141850
+MD5sum: 25f06e1636380e56c6e4a56ec11a8d91
+Filename: ./debs/com.ridn.leash_1.1-7+debug_iphoneos-arm.deb
+
 Package: com.ridn.letigre
 Name: Magnum
 Depends: mobilesubstrate
