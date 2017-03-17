@@ -440,6 +440,21 @@ Size: 161310
 MD5sum: c1130a8002776fbe04f85d71d633bf79
 Filename: ./debs/com.ridn.cheader_0.1.0-7+debug_iphoneos-arm.deb
 
+Package: com.ridn.cheader
+Name: Cheader
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Colored Banner Headers.
+Maintainer: r_idn <appleidname@yahoo.com>
+Author: r_idn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: http://ridn.me/repo/depiction/cheader/
+Version: 0.1.1-1+debug
+Installed-Size: 300
+Size: 302102
+MD5sum: 7c3d87b3c903d4e9d35b77be5fbf9acc
+Filename: ./debs/com.ridn.cheader_0.1.1-1+debug_iphoneos-arm.deb
+
 Package: com.ridn.cog
 Name: Cog
 Depends: mobilesubstrate
