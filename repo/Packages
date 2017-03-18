@@ -590,6 +590,21 @@ Size: 366628
 MD5sum: 8d1b02eb148274e562bec7568bd2624c
 Filename: ./debs/com.ridn.hypeman_0.0.5-1+debug_iphoneos-arm.deb
 
+Package: com.ridn.hypeman
+Name: Hypeman
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Announce now playing track changes!
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Depiction: http://ridn.github.io/repo/depiction/hypeman/
+Section: Tweaks
+Version: 0.0.5-2+debug
+Installed-Size: 368
+Size: 367140
+MD5sum: 780afd083f2aaf74423ff6ae869d242e
+Filename: ./debs/com.ridn.hypeman_0.0.5-2+debug_iphoneos-arm.deb
+
 Package: com.ridn.leash
 Name: Leash
 Depends: mobilesubstrate
