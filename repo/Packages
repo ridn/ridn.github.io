@@ -629,11 +629,11 @@ Maintainer: ridn <appleidname@yahoo.com>
 Author: ridn <appleidname@yahoo.com>
 Section: Tweaks
 Depiction: https://ridn.github.io/repo/depiction/leash
-Version: 1.1-12+debug
+Version: 1.1-13+debug
 Installed-Size: 140
 Size: 141850
-MD5sum: d94aa9a6b21d86176d62bf978798f4e8
-Filename: ./debs/com.ridn.leash_1.1-12+debug_iphoneos-arm.deb
+MD5sum: 87bd146c67c2c8a4034bc1b975af805e
+Filename: ./debs/com.ridn.leash_1.1-13+debug_iphoneos-arm.deb
 
 Package: com.ridn.leash
 Name: Leash
