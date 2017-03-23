@@ -771,6 +771,21 @@ Size: 140820
 MD5sum: e3640f6a3782376984aa6b9fe56b70ec
 Filename: ./debs/com.ridn.spodify_0.0.1-2+debug_iphoneos-arm.deb
 
+Package: com.ridn.spodify
+Name: Spodify
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Dictionary in Spotlight
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Depiction: https://ridn.me/repo/depiction/spodify
+Version: 0.0.2-1+debug
+Installed-Size: 140
+Size: 142868
+MD5sum: 27c7d66e8c3bfc60437d25e7e41cde4e
+Filename: ./debs/com.ridn.spodify_0.0.2-1+debug_iphoneos-arm.deb
+
 Package: com.ridn.sqone
 Name: Square One
 Depends: mobilesubstrate
