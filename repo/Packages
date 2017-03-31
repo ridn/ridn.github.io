@@ -470,6 +470,20 @@ Size: 37876
 MD5sum: 5f949717a489e461df3a5fcbd91d9adf
 Filename: ./debs/com.ridn.cog_0.0.1-7_iphoneos-arm.deb
 
+Package: com.ridn.fool
+Name: April Fools
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 120
+Size: 122372
+MD5sum: 72464b68973507fed68c6dc5067cae73
+Filename: ./debs/com.ridn.fool_0.0.1-1+debug_iphoneos-arm.deb
+
 Package: com.ridn.hypeman
 Name: Hypeman
 Depends: mobilesubstrate
