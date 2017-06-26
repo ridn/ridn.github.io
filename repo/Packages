@@ -500,6 +500,20 @@ Size: 37876
 MD5sum: 5f949717a489e461df3a5fcbd91d9adf
 Filename: ./debs/com.ridn.cog_0.0.1-7_iphoneos-arm.deb
 
+Package: com.ridn.disablecam10
+Name: DisableCam 10
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Disable your devices camera.
+Maintainer: ridn <appleidname@yahoo.com>
+Author: ridn <appleidname@yahoo.com>
+Section: Tweaks
+Version: 0.0.2-1+debug
+Installed-Size: 124
+Size: 126982
+MD5sum: cd2ff5a841fc8bdd04a9ddf66bcb95a6
+Filename: ./debs/com.ridn.disablecam10_0.0.2-1+debug_iphoneos-arm.deb
+
 Package: com.ridn.fool
 Name: April Fools
 Depends: mobilesubstrate
