@@ -59,6 +59,7 @@ a#tbfc {
 }
 ul {
   -webkit-padding-start: 0px;
+  list-style-type: none;
 }
 ul#list-nav {
     background-color: #c8c8c8;
