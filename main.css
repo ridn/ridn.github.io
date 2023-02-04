@@ -53,7 +53,7 @@ a#tbfc {
 #menuBar {
     position: relative;
     width: 50%;
-    min-width: 600px;
+    min-width: 500px;
     left: 3.3%;
     margin: auto;
 }
@@ -73,7 +73,7 @@ ul#list-nav li a {
     position: relative;
     text-decoration: none;
     padding: 5px 0;
-    width: 17%;
+    width: 16%;
     color: #5CADF1;
     float: left;
     transition: 500ms;
