@@ -1,4 +1,4 @@
-[
+{"data" : [
     {"code": "A9J4K7", "guestAllotment": 2},
     {"code": "B2W8Q1", "guestAllotment": 2},
     {"code": "C5H3M0", "guestAllotment": 1},
@@ -68,3 +68,4 @@
     {"code": "O4X2V5", "guestAllotment": 2},
     {"code": "P6R9T0", "guestAllotment": 2}
 ]
+}
