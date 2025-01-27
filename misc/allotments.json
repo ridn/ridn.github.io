@@ -68,8 +68,8 @@
   {"code":"O4X2V5","guestAllotment":2,"expirationDate":"2025-03-12","dates":[0,1,2]},
   {"code":"P6R9T0","guestAllotment":2,"expirationDate":"2025-02-05","dates":[0,1,2]},
   {"code":"Q3Y1J7","guestAllotment":2,"expirationDate":"2025-02-05","dates":[0,1,2]},
-  {"code":"R8L4M2","guestAllotment":2,"expirationDate":"2025-02-05","dates":[0,1,2]},
-  {"code":"S5N0V9","guestAllotment":3,"expirationDate":"2025-02-05","dates":[0,1,2]},
+  {"code":"R8L4M2","guestAllotment":4,"expirationDate":"2025-02-25","dates":[0,1,2]},
+  {"code":"S5N0V9","guestAllotment":3,"expirationDate":"2025-02-25","dates":[0,1,2]},
   {"code":"T1Q6P3","guestAllotment":1,"expirationDate":"2025-02-05","dates":[0,1,2]},
   {"code":"U4J9Y8","guestAllotment":2,"expirationDate":"2025-02-05","dates":[0,1,2]},
   {"code":"V7M2L0","guestAllotment":11,"expirationDate":"2025-03-12","dates":[0,1,2]}
