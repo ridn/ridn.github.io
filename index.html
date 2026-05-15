@@ -1,53 +1,73 @@
-<!DOCTYPE html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Dan Niyazov — engineering leader and product-minded technologist: enterprise platforms, integrations, and delivery.">
 	<link rel="stylesheet" href="main.css">
-	<title>ridn | Home</title>
+	<title>Dan Niyazov</title>
 </head>
-<script>
-	function waitForIt() {
-		alert("This is a secret.");
-	}
-</script>
 
 <body>
-
-	<!--<div>
-		<a id="tbfc" href="javascript:void(0)" onclick="waitForIt()">TBFC</a>
-	</div>-->
-	<div id="bigTitle">
-		<h1>Home</h1>
-		<div>
-			<ul id="side-nav">
-				<li><a href="about.html">About</a></li>
-				<li><a href="projects.html">Projects</a></li>
-				<li><a href="mailto:dan@ridn.me">Contact</a></li>
-			</ul>
+	<header class="site-header">
+		<div class="header-inner">
+			<a class="logo" href="index.html">pryzv</a>
+			<nav class="site-nav" aria-label="Primary">
+				<a href="index.html" aria-current="page">Home</a>
+				<a href="about.html">About</a>
+				<a href="cv.html">Experience</a>
+				<a href="projects.html">Projects</a>
+				<a href="mailto:dan@pryzv.me">Contact</a>
+			</nav>
+			<details class="nav-mobile">
+				<summary>Menu</summary>
+				<nav aria-label="Mobile">
+					<a href="index.html">Home</a>
+					<a href="about.html">About</a>
+					<a href="cv.html">Experience</a>
+					<a href="projects.html">Projects</a>
+					<a href="mailto:dan@pryzv.me">Contact</a>
+				</nav>
+			</details>
 		</div>
-	</div>
+	</header>
 
-	<div class="center">
-		<ul>
-			<li>
-					<h1>Hello.</h1>
-			</li>
-			<li>
-				<div id="menuBar">
-					<ul id="list-nav">
-						<li><a href="https://github.com/ridn">github</a></li>
-						<li><a href="resources/resume.pdf">resumé</a></li>
-						<li><a href="https://twitter.com/r_idn">twitter</a></li>
-						<li><a rel="me" href="https://mastodon.social/@ridn">mastodon</a></li>
-						<li><a href="mailto:dan@ridn.me">contact</a></li>
-						<li><a href="https://cash.me/$ridn">donate</a></li>
-					</ul>
+	<main>
+		<div class="wrap hero">
+			<div class="hero-intro">
+				<img class="hero-avatar" src="resources/dan-portrait.png" width="120" height="120"
+					alt="Portrait of Dan Niyazov">
+				<div class="hero-copy">
+					<p class="section-label">Portfolio</p>
+					<h1>Dan Niyazov</h1>
+					<p class="lede">Engineering leader and hands-on builder—shipping integrations, automation, and
+						product-quality software on tight release cycles. Deep experience on enterprise CRM platforms;
+						just as comfortable owning architecture, stakeholder comms, and GTM-facing technical work.</p>
 				</div>
-			</li>
-	</div>
-	<div class="footer">
-		Copyright © 2015-2018 Daniel Niyazov.
-	</div>
+			</div>
+			<div class="actions">
+				<a class="btn btn-primary" href="cv.html">View experience</a>
+				<a class="btn btn-ghost" href="about.html">About</a>
+				<a class="btn btn-ghost" href="projects.html">Projects</a>
+				<a class="btn btn-ghost" href="https://github.com/ridn">GitHub</a>
+			</div>
+		</div>
+
+		<div class="wrap flush-top">
+			<p class="section-label">Elsewhere</p>
+			<div class="actions">
+				<a class="btn btn-ghost" href="resources/resume.pdf">Résumé (PDF)</a>
+				<a class="btn btn-ghost" href="https://linkedin.com/in/dniyazov">LinkedIn</a>
+				<a class="btn btn-ghost" href="https://twitter.com/r_idn">Twitter</a>
+				<a class="btn btn-ghost" rel="me" href="https://mastodon.social/@ridn">Mastodon</a>
+			</div>
+		</div>
+	</main>
+
+	<footer class="site-footer">
+		<p>© Dan Niyazov · <a href="mailto:dan@pryzv.me">dan@pryzv.me</a></p>
+	</footer>
 </body>
 
 </html>

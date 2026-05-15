@@ -1,32 +1,77 @@
-<!DOCTYPE html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="About Dan Niyazov — engineering leadership, product delivery, and enterprise integrations.">
 	<link rel="stylesheet" href="main.css">
-	<title>ridn | About</title>
+	<title>About · Dan Niyazov</title>
 </head>
 
-
 <body>
+	<header class="site-header">
+		<div class="header-inner">
+			<a class="logo" href="index.html">pryzv</a>
+			<nav class="site-nav" aria-label="Primary">
+				<a href="index.html">Home</a>
+				<a href="about.html" aria-current="page">About</a>
+				<a href="cv.html">Experience</a>
+				<a href="projects.html">Projects</a>
+				<a href="mailto:dan@pryzv.me">Contact</a>
+			</nav>
+			<details class="nav-mobile">
+				<summary>Menu</summary>
+				<nav aria-label="Mobile">
+					<a href="index.html">Home</a>
+					<a href="about.html">About</a>
+					<a href="cv.html">Experience</a>
+					<a href="projects.html">Projects</a>
+					<a href="mailto:dan@pryzv.me">Contact</a>
+				</nav>
+			</details>
+		</div>
+	</header>
 
-	<div id="bigTitle">
-		<h1>About</h1>
-		<div>
-			<ul id="side-nav">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="projects.html">Projects</a></li>
-				<li><a href="mailto:dan@ridn.me">Contact</a></li>
-			</ul>
+	<main>
+		<div class="wrap">
+			<h1 class="page-title">About</h1>
+			<p class="page-sub">Product-minded engineering: clear requirements, reliable releases, and software that
+				teams can operate without heroics.</p>
+
+			<div class="about-layout">
+				<figure class="about-photo-wrap">
+					<img class="about-photo" src="resources/dan-portrait.png" width="560" height="700"
+						alt="Dan Niyazov in a grey suit, in front of a brick wall with vines.">
+				</figure>
+				<div class="about-content">
+					<div class="prose">
+						<p>I lead engineering delivery across time zones—roadmaps, code review, release discipline, and
+							the “last mile” with stakeholders when trade-offs matter. Most of my recent work sits on
+							large enterprise SaaS stacks (think complex data models, compliance, and managed product
+							shipping), but the through-line is general software practice: APIs, automation, measurable
+							cost savings, and documentation people actually use.</p>
+						<p>I enjoy GTM-adjacent technical work too: release comms, enablement artifacts, security
+							review prep, and turning fuzzy asks into scoped increments. I also use modern LLM-assisted
+							tooling day to day to move faster on design, code, and test ideas—always with human review
+							where it counts.</p>
+						<p>This site still hosts some earlier iOS and Cydia-era projects. For a résumé-style timeline and
+							skills, see <a href="cv.html">experience</a> or the <a href="resources/resume.pdf">PDF
+								résumé</a>.</p>
+					</div>
+					<div class="about-links">
+						<a class="btn btn-primary" href="mailto:dan@pryzv.me">Email</a>
+						<a class="btn btn-ghost" href="https://linkedin.com/in/dniyazov">LinkedIn</a>
+						<a class="btn btn-ghost" href="https://github.com/ridn">GitHub</a>
+					</div>
+				</div>
+			</div>
 		</div>
-	</div>
-	<div id="pushedContent">
-		<div id="paragraphText">
-			<p>Not great at these things, please bear with me and this will be filled eventually.</p>
-		</div>
-	</div>
-	<div class="footer">
-		Copyright © 2015-2016 Daniel Niyazov.
-	</div>
+	</main>
+
+	<footer class="site-footer">
+		<p>© Dan Niyazov · <a href="mailto:dan@pryzv.me">dan@pryzv.me</a></p>
+	</footer>
 </body>
 
 </html>

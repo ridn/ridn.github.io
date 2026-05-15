@@ -3,8 +3,8 @@ Name: AllSnap
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Select all friends to receive a snap. Active by holding the "Add Friends" button on the recipient selection screen.
-Maintainer: ridn
-Author: ridn
+Maintainer: Dan Niyazov
+Author: Dan Niyazov
 Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 88
@@ -31,8 +31,8 @@ Name: BetterTTU
 Depends: mobilesubstrate , preferenceloader, firmware (>= 7.0)
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: ridn
-Author: ridn
+Maintainer: Dan Niyazov
+Author: Dan Niyazov
 Section: Tweaks
 Version: 0.0.2-3
 Installed-Size: 220
@@ -74,9 +74,9 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: RiDan
 Section: Tweaks
-Maintainer: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
 Description: Dismiss iOS Keyboard with return button.
-Sponsor: ridn <http://ridn.github.io>
+Sponsor: Dan Niyazov <https://pryzv.me/>
 Author: RiDan <appleidname@yahoo.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=returndismissDp
 dev: appleidname
@@ -92,8 +92,8 @@ Name: SnapFeed
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Load SnapChat directly to inbox feed!
-Maintainer: ridn
-Author: ridn
+Maintainer: Dan Niyazov
+Author: Dan Niyazov
 Section: Tweaks
 Version: 0.0.1-3
 Installed-Size: 88
@@ -120,8 +120,8 @@ Name: Twitter Showkeyboard
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Twitter compose sheet open to keyboard!
-Maintainer: ridn
-Author: ridn
+Maintainer: Dan Niyazov
+Author: Dan Niyazov
 Section: Tweaks
 Version: 0.0.1-17
 Installed-Size: 16
@@ -134,8 +134,8 @@ Name: UnDim4What
 Depends: mobilesubstrate , com.a3tweaks.flipswitch
 Architecture: iphoneos-arm
 Description: Undim the lock screen upon now playing track changes.
-Maintainer: ridn
-Author: ridn
+Maintainer: Dan Niyazov
+Author: Dan Niyazov
 Section: Tweaks
 icon:file:///Library/Switches/UD4WFS.bundle/glyph.pdf
 Version: 1.0.1-1
@@ -149,8 +149,8 @@ Name: XCColors Lite
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: ridn
-Author: ridn
+Maintainer: Dan Niyazov
+Author: Dan Niyazov
 Section: Tweaks
 Version: 0.0.1-19
 Installed-Size: 252
@@ -163,8 +163,8 @@ Name: blacklist
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
 Version: 0.0.1-10+debug
 Installed-Size: 140
@@ -177,8 +177,8 @@ Name: blacklist
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
 Version: 0.0.1-12+debug
 Installed-Size: 140
@@ -191,8 +191,8 @@ Name: blacklist
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
 Version: 0.0.2-1+debug
 Installed-Size: 272
@@ -205,10 +205,10 @@ Name: blacklist
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Blacklist words to certain contacts
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/blacklist
+Depiction: http://pryzv.me/repo/depiction/blacklist
 Version: 0.0.3-1+debug
 Installed-Size: 280
 Size: 275994
@@ -220,10 +220,10 @@ Name: blacklist
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Blacklist words to certain contacts
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/blacklist
+Depiction: http://pryzv.me/repo/depiction/blacklist
 Version: 0.0.3-2+debug
 Installed-Size: 280
 Size: 275994
@@ -235,10 +235,10 @@ Name: Bounce
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: "PlayTask" for iOS8
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.github.io/repo/depiction/bounce/
+Depiction: http://pryzv.me/repo/depiction/bounce/
 Version: 1.0.0-3
 Installed-Size: 72
 Size: 6136
@@ -250,10 +250,10 @@ Name: Pigeon
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/pigeon/
+Depiction: http://pryzv.me/repo/depiction/pigeon/
 Version: 0.0.1-5+debug
 Installed-Size: 136
 Size: 138264
@@ -265,10 +265,10 @@ Name: CallBack
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Quick call back!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.github.io/repo/depiction/callback/
+Depiction: http://pryzv.me/repo/depiction/callback/
 Version: 1.1.1-1
 Installed-Size: 88
 Size: 8906
@@ -280,10 +280,10 @@ Name: CallBack
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Quick call back!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.github.io/repo/depiction/callback/
+Depiction: http://pryzv.me/repo/depiction/callback/
 Version: 1.1.3-1+debug
 Installed-Size: 140
 Size: 142872
@@ -298,7 +298,7 @@ Description: An awesome MobileSubstrate tweak!
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/cheader/
+Depiction: http://pryzv.me/repo/depiction/cheader/
 Version: 0.0.2-1+debug
 Installed-Size: 120
 Size: 123426
@@ -313,7 +313,7 @@ Description: Colored Banner Headers.
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/cheader/
+Depiction: http://pryzv.me/repo/depiction/cheader/
 Version: 0.0.3-1+debug
 Installed-Size: 120
 Size: 123936
@@ -328,7 +328,7 @@ Description: Colored Banner Headers.
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/cheader/
+Depiction: http://pryzv.me/repo/depiction/cheader/
 Version: 0.0.3-16+debug
 Installed-Size: 128
 Size: 129056
@@ -343,7 +343,7 @@ Description: Colored Banner Headers.
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/cheader/
+Depiction: http://pryzv.me/repo/depiction/cheader/
 Version: 0.0.4-1+debug
 Installed-Size: 128
 Size: 130080
@@ -358,7 +358,7 @@ Description: Colored Banner Headers.
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/cheader/
+Depiction: http://pryzv.me/repo/depiction/cheader/
 Version: 0.0.5-2+debug
 Installed-Size: 148
 Size: 150558
@@ -373,7 +373,7 @@ Description: Colored Banner Headers.
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/cheader/
+Depiction: http://pryzv.me/repo/depiction/cheader/
 Version: 0.0.6-1+debug
 Installed-Size: 148
 Size: 150560
@@ -388,7 +388,7 @@ Description: Colored Banner Headers.
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/cheader/
+Depiction: http://pryzv.me/repo/depiction/cheader/
 Version: 0.0.7-2+debug
 Installed-Size: 148
 Size: 150558
@@ -403,7 +403,7 @@ Description: Colored Banner Headers.
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/cheader/
+Depiction: http://pryzv.me/repo/depiction/cheader/
 Version: 0.0.8-2+debug
 Installed-Size: 148
 Size: 151582
@@ -418,7 +418,7 @@ Description: Colored Banner Headers.
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/cheader/
+Depiction: http://pryzv.me/repo/depiction/cheader/
 Version: 0.0.9-1+debug
 Installed-Size: 148
 Size: 152096
@@ -433,7 +433,7 @@ Description: Colored Banner Headers.
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/cheader/
+Depiction: http://pryzv.me/repo/depiction/cheader/
 Version: 0.1.0-7+debug
 Installed-Size: 156
 Size: 161310
@@ -448,7 +448,7 @@ Description: Colored Banner Headers.
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/cheader/
+Depiction: http://pryzv.me/repo/depiction/cheader/
 Version: 0.1.1-1+debug
 Installed-Size: 300
 Size: 302102
@@ -463,7 +463,7 @@ Description: Colored Banner Headers.
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/cheader/
+Depiction: http://pryzv.me/repo/depiction/cheader/
 Version: 0.1.2-2+debug
 Installed-Size: 320
 Size: 319510
@@ -478,7 +478,7 @@ Description: Colored Banner Headers.
 Maintainer: r_idn <appleidname@yahoo.com>
 Author: r_idn <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/cheader/
+Depiction: http://pryzv.me/repo/depiction/cheader/
 Version: 0.1.2-3+debug
 Installed-Size: 320
 Size: 319510
@@ -490,10 +490,10 @@ Name: Cog
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Indicate if the last message was incoming or outgoing!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: https://ridn.github.io/repo/depiction/cog
+Depiction: https://pryzv.me/repo/depiction/cog
 Version: 0.0.1-7
 Installed-Size: 144
 Size: 37876
@@ -505,8 +505,8 @@ Name: DisableCam 10
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Disable your devices camera.
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
 Version: 0.0.2-1+debug
 Installed-Size: 124
@@ -519,8 +519,8 @@ Name: April Fools
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
 Version: 0.0.1-1+debug
 Installed-Size: 120
@@ -533,9 +533,9 @@ Name: Hypeman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Announce now playing track changes!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Depiction: http://ridn.github.io/repo/depiction/hypeman/
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
+Depiction: http://pryzv.me/repo/depiction/hypeman/
 Section: Tweaks
 Version: 0.0.3-1
 Installed-Size: 184
@@ -548,9 +548,9 @@ Name: Hypeman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Announce now playing track changes!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Depiction: http://ridn.github.io/repo/depiction/hypeman/
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
+Depiction: http://pryzv.me/repo/depiction/hypeman/
 Section: Tweaks
 Version: 0.0.3-5+debug
 Installed-Size: 308
@@ -563,9 +563,9 @@ Name: Hypeman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Announce now playing track changes!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Depiction: http://ridn.github.io/repo/depiction/hypeman/
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
+Depiction: http://pryzv.me/repo/depiction/hypeman/
 Section: Tweaks
 Version: 0.0.3-7+debug
 Installed-Size: 312
@@ -578,9 +578,9 @@ Name: Hypeman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Announce now playing track changes!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Depiction: http://ridn.github.io/repo/depiction/hypeman/
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
+Depiction: http://pryzv.me/repo/depiction/hypeman/
 Section: Tweaks
 Version: 0.0.3-8+debug
 Installed-Size: 312
@@ -593,9 +593,9 @@ Name: Hypeman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Announce now playing track changes!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Depiction: http://ridn.github.io/repo/depiction/hypeman/
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
+Depiction: http://pryzv.me/repo/depiction/hypeman/
 Section: Tweaks
 Version: 0.0.4-3+debug
 Installed-Size: 312
@@ -608,9 +608,9 @@ Name: Hypeman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Announce now playing track changes!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Depiction: http://ridn.github.io/repo/depiction/hypeman/
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
+Depiction: http://pryzv.me/repo/depiction/hypeman/
 Section: Tweaks
 Version: 0.0.4-5+debug
 Installed-Size: 348
@@ -623,9 +623,9 @@ Name: Hypeman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Announce now playing track changes!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Depiction: http://ridn.github.io/repo/depiction/hypeman/
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
+Depiction: http://pryzv.me/repo/depiction/hypeman/
 Section: Tweaks
 Version: 0.0.4-7+debug
 Installed-Size: 348
@@ -638,9 +638,9 @@ Name: Hypeman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Announce now playing track changes!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Depiction: http://ridn.github.io/repo/depiction/hypeman/
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
+Depiction: http://pryzv.me/repo/depiction/hypeman/
 Section: Tweaks
 Version: 0.0.5-1+debug
 Installed-Size: 368
@@ -653,9 +653,9 @@ Name: Hypeman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Announce now playing track changes!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Depiction: http://ridn.github.io/repo/depiction/hypeman/
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
+Depiction: http://pryzv.me/repo/depiction/hypeman/
 Section: Tweaks
 Version: 0.0.5-2+debug
 Installed-Size: 368
@@ -668,10 +668,10 @@ Name: Leash
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: 'NCObey' for iOS 9
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: https://ridn.github.io/repo/depiction/leash
+Depiction: https://pryzv.me/repo/depiction/leash
 Version: 0.0.1-11
 Installed-Size: 152
 Size: 6110
@@ -683,10 +683,10 @@ Name: Leash
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: 'NCObey' for iOS 9/10
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: https://ridn.github.io/repo/depiction/leash
+Depiction: https://pryzv.me/repo/depiction/leash
 Version: 1.1-1+debug
 Installed-Size: 120
 Size: 123418
@@ -698,10 +698,10 @@ Name: Leash
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: 'NCObey' for iOS 9/10
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: https://ridn.github.io/repo/depiction/leash
+Depiction: https://pryzv.me/repo/depiction/leash
 Version: 1.1-13+debug
 Installed-Size: 140
 Size: 141850
@@ -713,10 +713,10 @@ Name: Leash
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: 'NCObey' for iOS 9/10
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: https://ridn.github.io/repo/depiction/leash
+Depiction: https://pryzv.me/repo/depiction/leash
 Version: 1.1-2+debug
 Installed-Size: 120
 Size: 123418
@@ -728,10 +728,10 @@ Name: Leash
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: 'NCObey' for iOS 9/10
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: https://ridn.github.io/repo/depiction/leash
+Depiction: https://pryzv.me/repo/depiction/leash
 Version: 1.1-5+debug
 Installed-Size: 140
 Size: 140826
@@ -743,10 +743,10 @@ Name: Leash
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: 'NCObey' for iOS 9/10
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: https://ridn.github.io/repo/depiction/leash
+Depiction: https://pryzv.me/repo/depiction/leash
 Version: 1.1-6+debug
 Installed-Size: 140
 Size: 140824
@@ -758,10 +758,10 @@ Name: Leash
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: 'NCObey' for iOS 9/10
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: https://ridn.github.io/repo/depiction/leash
+Depiction: https://pryzv.me/repo/depiction/leash
 Version: 1.2-1+debug
 Installed-Size: 140
 Size: 142362
@@ -773,9 +773,9 @@ Name: Magnum
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description:Contact specific message colors.
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Depiction: http://ridn.github.io/repo/depiction/magnum
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
+Depiction: http://pryzv.me/repo/depiction/magnum
 Icon: file:///Library/Application Support/MagnumColorSettings.bundle/icon.png
 Section: Tweaks
 Version: 0.0.1-941
@@ -789,10 +789,10 @@ Name: Temporal
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: LST, Lockscreen time zones!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/temporal
+Depiction: http://pryzv.me/repo/depiction/temporal
 Version: 0.0.1-2+debug
 Installed-Size: 144
 Size: 146458
@@ -804,10 +804,10 @@ Name: Temporal
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: LST, Lockscreen time zones!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/temporal
+Depiction: http://pryzv.me/repo/depiction/temporal
 Version: 0.0.2-1+debug
 Installed-Size: 148
 Size: 150042
@@ -819,9 +819,9 @@ Name: Mutiny
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Mute those convos right from the list!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Depiction: http://ridn.github.io/repo/depiction/mutiny/
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
+Depiction: http://pryzv.me/repo/depiction/mutiny/
 Section: Tweaks
 Version: 0.0.1-7
 Installed-Size: 88
@@ -834,10 +834,10 @@ Name: Spodify
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Dictionary in Spotlight
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: https://ridn.me/repo/depiction/spodify
+Depiction: https://pryzv.me/repo/depiction/spodify
 Version: 0.0.1-2+debug
 Installed-Size: 140
 Size: 140820
@@ -849,10 +849,10 @@ Name: Spodify
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Dictionary in Spotlight
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: https://ridn.me/repo/depiction/spodify
+Depiction: https://pryzv.me/repo/depiction/spodify
 Version: 0.0.2-1+debug
 Installed-Size: 140
 Size: 142868
@@ -864,9 +864,9 @@ Name: Square One
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Always load top of Today View 
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
-Depiction: http://ridn.github.io/repo/depiction/squareone
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
+Depiction: http://pryzv.me/repo/depiction/squareone
 Section: Tweaks
 Version: 0.0.1-4
 Installed-Size: 72
@@ -879,8 +879,8 @@ Name: squish
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: ridn
-Author: ridn
+Maintainer: Dan Niyazov
+Author: Dan Niyazov
 Section: Tweaks
 Version: 0.0.1-1+debug
 Installed-Size: 136
@@ -893,10 +893,10 @@ Name: Tinc
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/tinc
+Depiction: http://pryzv.me/repo/depiction/tinc
 Version: 0.0.1-6+debug
 Installed-Size: 124
 Size: 128544
@@ -908,10 +908,10 @@ Name: Tinc
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Description: Check out yo brand new tints 
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/tinc
+Depiction: http://pryzv.me/repo/depiction/tinc
 Version: 0.0.2-1+debug
 Installed-Size: 128
 Size: 129572
@@ -923,10 +923,10 @@ Name: Tinc
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Description: Check out yo brand new tints 
-Maintainer: ridn <appleidname@yahoo.com>
-Author: ridn <appleidname@yahoo.com>
+Maintainer: Dan Niyazov <appleidname@yahoo.com>
+Author: Dan Niyazov <appleidname@yahoo.com>
 Section: Tweaks
-Depiction: http://ridn.me/repo/depiction/tinc
+Depiction: http://pryzv.me/repo/depiction/tinc
 Version: 0.0.2-4+debug
 Installed-Size: 144
 Size: 146978
